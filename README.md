@@ -42,3 +42,6 @@ Add rows to `data/dictionary.csv` (`bikol_term,english_term`; the first row of a
 
 ## 5. Files
 `app.py` API · `engine.py` translation · `db.py` schema/import · `init_db.py` setup · `static/` prebuilt screens · `data/` CSVs + review reports · `tools/` how the CSVs were made · `frontend_src/` source of the screens · `CHANGES_TO_MANUSCRIPT.md` · `DATA_REPORT.md`
+
+## 6. Rules
+- ask me before pushing to remote
