@@ -1,0 +1,2 @@
+Source of the screens in ../static (already built - you do not need this to run the system).
+Built with esbuild (React 19): esbuild main.jsx --bundle --minify --jsx=automatic --outfile=../static/assets/app.js

@@ -1,0 +1,33 @@
+# Runtime data: database (accounts, password hashes, history) and the session secret key.
+# Created locally by `py init_db.py` / `py app.py` - never commit.
+instance/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite3
+secret.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend tooling (static/ is the committed build output and IS tracked)
+node_modules/
+
+# Editor / local tool settings
+.vscode/
+.idea/
+.claude/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*

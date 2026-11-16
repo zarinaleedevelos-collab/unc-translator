@@ -1,0 +1,2529 @@
+bikol_term,english_term,category
+Ako,I,Pronoun
+Ako,receive / accept / confession,Social / Noun
+Ika,You,Pronoun
+Siya,He/She,Pronoun
+Siya,He / She,Nominative Third Person Singular
+Kami,We (exclusive),Pronoun
+Kita,We (inclusive),Pronoun
+Kamo,You (plural),Pronoun
+Sinda,They,Pronoun
+Sinda,Them,Pronoun
+Sinda,plural personal name marker / they,Grammar
+Sinda,They / Them,Pronoun
+Babae,Woman,Noun
+Lalaki,Man,Noun
+Lalaki,man / male,Noun
+Aki,Child,Noun
+Aki,Child / Offspring,Noun
+Aki,child / kid,Noun
+Aki,Child / Son or daughter,Vocabulary
+Magurang,Parent,Noun
+Magurang,Parents,Noun
+Magurang,parent / elder,Noun
+Magurang,Parent / Elderly,Vocabulary
+Tugang,Sibling,Noun
+Amigo,Friend,Noun
+Amigo,friend (M),Civic / Social
+Tawo,Person,Noun
+Tawo,person / human,Noun
+Harong,House,Noun
+Harong,House / Home,Noun
+Eskwelahan,School,Noun
+Simbahan,Church,Noun
+Saod,Market,Noun
+Tinampo,Road,Noun
+Tinampo,Road / Pathway,Noun
+Tinampo,Road / Path,Noun
+Tinampo,road / street,Noun
+Salog,River,Noun
+Salog,Floor / River,Noun
+Dagat,Sea,Noun
+Dagat,Sea / Ocean,Noun
+Bukid,Mountain,Noun
+Bukid,Farm / Mountain,Noun
+Bukid,Mountain / Field,Noun
+Bukid,Mountain / Hill,Noun
+Tubig,Water,Noun
+Kakanon,Food,Noun
+Kakanon,native cakes,Food / Transaction
+Kakanon,Food / Meal,Noun
+Maluto,Cooked rice,Noun
+Paroy,Uncooked rice,Noun
+Paroy,Unhusked rice / Rice plant,Noun
+Paroy,Unhusked rice grain,Agriculture
+Isda,Fish,Noun
+Karne,Meat,Noun
+Gulay,Vegetable,Noun
+Gulay,Vegetables,Noun
+Prutas,Fruit,Noun
+Tinapay,Bread,Noun
+Kape,Coffee,Noun
+Gatas,Milk,Noun
+Libro,Book,Noun
+Lapis,Pencil,Noun
+Papel,Paper,Noun
+Lamesa,Table,Noun
+Lamesa,Desk / Table,Noun
+Tukawan,Chair,Noun
+Tukawan,Chair / Seat,Noun
+Bado,Clothes,Noun
+Bado,Clothing / Dress,Noun
+Bado,Clothes / Dress,Noun
+Sapatos,Shoes,Noun
+Sapatos,Footwear / Shoes,Noun
+Payong,Umbrella,Noun
+Bag,Bag,Noun
+Kwarta,Money,Noun
+Aldaw,Day/Sun,Noun
+Aldaw,day / sun,Noun
+Banggi,Night,Noun
+Banggi,Night / Evening,Time
+Bulan,Moon,Noun
+Bulan,Moon / Month,Noun
+Bitoon,Star,Noun
+Uran,Rain,Noun
+Payo,Head,Noun
+Mata,Eye,Noun
+Mata,eye / awake state,Sense / Noun
+Kamot,Hand,Noun
+Kamot,Hand / Arm,Body Parts
+Bitis,Foot,Noun
+Bitis,Foot / Leg,Body Parts
+Puso,Heart,Noun
+Magkaon,To eat,Verb
+Mag-inom,To drink,Verb
+Mag-inom,Drink,Verb
+Magturog,To sleep,Verb
+Magturog,Sleep,Verb
+Magmata,To wake,Verb
+Magmata,To wake up,Verb
+Maglakaw,To walk,Verb
+Magdalagan,To run,Verb
+Magdalagan,Run,Verb
+Magtukaw,To sit,Verb
+Magtukaw,Sit,Verb
+Magtindog,To stand,Verb
+Magbasa,To read,Verb
+Magbasa,Read,Verb
+Magsurat,To write,Verb
+Magsurat,Write,Verb
+Maghiling,To look,Verb
+Maghiling,To look / Watch,Verb
+Magdangog,To listen,Verb
+Magtaram,To speak,Verb
+Magtaram,Vocalize / Speak up,Verb
+Maghapot,To ask,Verb
+Magsimbag,To answer,Verb
+Magtabang,To help,Verb
+Magtabang,Help,Verb
+Maggibo,To do/make,Verb
+Maggibo,To do / make,Verb
+Magbakal,To buy,Verb
+Magbakal,Buy,Verb
+Magluto,To cook,Verb
+Magluto,Cook,Verb
+Maglinig,To clean,Verb
+Maglinig,Clean,Verb
+Magkarigos,To bathe,Verb
+Magkarigos,To take a bath,Verb
+Marhay,Good,Adj
+Marhay,Good / Fine,Adj
+Maraot,Bad,Adj
+Maraot,Quite bad,Adj
+Maraot,bad / broken,Adjective
+Dakula,Big,Adj
+Dakula,Big / Large,Adj
+Sadit,Small,Adj
+Sadit,small / little,Adjective
+Magayon,Beautiful,Adj
+Magayon,Pretty,Adj
+Magayon,beautiful / pretty,Adjective
+Maogma,Happy,Adj
+Maogma,Cheerful,Adj
+Maogma,Happy / Joyful,Adj
+Maogma,Happy / Cheerful,Adj
+Mamundo,Sad,Adj
+Mamundo,Somber / Gloomy,Adj
+Mamundo,Sad / Gloomy,Adj
+Pagal,Tired,Adj
+Pagal,Slightly tired,Adj
+Mainit,Hot,Adj
+Mainit,Warm,Adj
+Mainit,Hot / Warm,Adj
+Malipot,Cold,Adj
+Malipot,Cool / Chilly,Adj
+Malipot,Cold / Cool,Adj
+Malipot,cold / chilly,Adjective
+Masirom,Delicious,Adj
+Masirom,dark / gloomy,Adjective
+Bag’o,New,Adj
+Luma,Old,Adj
+Luma,old / not fresh,Adjective
+Luma,Old (object),Adj
+Mahal,Expensive,Adj
+Mahal,expensive / precious,Adjective
+Mura,Cheap,Adj
+Mura,cheap / inexpensive,Adjective
+Madali,Easy,Adj
+Madali,Fairly easy,Adj
+Madali,easy / quick,Adjective
+Saro,One,Number
+Duwa,Two,Number
+Tulo,Three,Number
+Apat,Four,Number
+Lima,Five,Number
+Anom,Six,Number
+Pito,Seven,Number
+Walo,Eight,Number
+Siyam,Nine,Number
+Sampulo,Ten,Number
+Lunes,Monday,Time
+Martes,Tuesday,Time
+Miyerkules,Wednesday,Time
+Huwebes,Thursday,Time
+Biyernes,Friday,Time
+Sabado,Saturday,Time
+Domingo,Sunday,Time
+Ngunyan,Now / Today,Time
+Naponan,Yesterday,Time
+Wala,Left,Direction
+Wala,left side,Places / Navigation
+Tuo,Right,Direction
+Tuo,right side,Places / Navigation
+Itaas,Up / Above,Direction
+Ibaba,Down / Below,Direction
+Irarom,Under / Below,Direction
+Irarom,Underneath / Beneath,Direction
+Agbay,Beside,Direction
+Agbay,Arm around shoulder,Noun
+Harani,Near,Direction
+Harani,near / close,Adjective
+Harayo,Far,Direction
+Harayo,Far / Distant,Distance
+Likod,Back,Direction
+Likod,Back (body part),Noun
+Enero,January,Time
+Pebrero,February,Time
+Marso,March,Time
+Abril,April,Time
+Mayo,May,Time
+Hunyo,June,Time
+Hulyo,July,Time
+Agosto,August,Time
+Setyembre,September,Time
+Oktubre,October,Time
+Nobyembre,November,Time
+Disyembre,December,Time
+Pula,Red,Color
+Asul,Blue,Color
+Dilaw,Yellow,Color
+Berde,Green,Color
+Puti,White,Color
+Itom,Black,Color
+Tsokolate,Brown,Color
+Ube,Purple,Color
+Rosas,Pink,Color
+Kagayonan,Beauty,Noun
+Kagayonan,Loveliness / Charm,Noun
+Kagayonan,Beauty / Kindness,Noun
+Kagayonan,Splendor / Beauty,Noun
+Kagayonan,Loveliness / Charm / Beauty,Noun
+Kagayonan,Beauty / Kindness / Loveliness,Noun
+Ayam,Dog,Noun
+Kuting,Cat,Noun
+Kuting,Kitten / Cat,Noun
+Manok,Chicken,Noun
+Bato,Stone/Rock,Noun
+Bato,Stone / Rock,Noun
+Kahoy,Tree/Wood,Noun
+Kahoy,Tree / Wood,Noun
+Dahon,Leaf,Noun
+Burak,Flower,Noun
+Damulag,Carabao,Noun
+Damulag,Water buffalo / Carabao,Livestock
+Bakal,Iron/Metal,Noun
+Bakal,buy,Food / Transaction
+Bakal,purchase / bought item,Transaction / Noun
+Hangos,Breath,Noun
+Dalan,Path/Way,Noun
+Dalan,Path / Road,Noun
+Dalan,path,Places / Navigation
+Taga-saod,Vendor,Noun
+Paratukdo,Teacher,Noun
+Estudyante,Student,Noun
+Doktor,Doctor,Noun
+Nars,Nurse,Noun
+Pulis,Police,Noun
+Pulis,police officer,Civic / Social
+Parasira,Fisherman,Noun
+Paratagay,Pourer/Bartender,Noun
+Paratanom,Farmer,Noun
+Anino,Shadow,Noun
+Duman,There (far),Pronoun
+Duman,over there,Direction / Adverb
+Duman,There (far from both),Locative Demonstrative
+Duman,Go there / Over there,Direction / Verb
+Dini,Here,Pronoun
+Dini,Here (near speaker),Locative Demonstrative
+Diyan,There (near),Pronoun
+Diyan,There (near listener),Locative Demonstrative
+Siisay,Who,Pronoun
+Ano,What,Pronoun
+Sain,Where,Pronoun
+Nuarin,When (future),Pronoun
+Nuarin,When,Question
+Nuarin,When (future action),Interrogative Pronoun
+Kaidto,When (past),Pronoun
+Kaidto,When (past event),Interrogative Pronoun
+Ta'no,Why,Pronoun
+Pano,How,Pronoun
+Gurano,How much,Pronoun
+Gurano,How much (cost/price),Interrogative
+Pira,How many,Pronoun
+Pira,How many (quantity),Interrogative Pronoun
+Ini,This,Pronoun
+Ini,This (near speaker),Demonstrative Pronoun
+Ini,This (referring to something close),Pronoun
+Iyan,That,Pronoun
+Iyan,That (near listener),Demonstrative Pronoun
+Ito,That (far),Pronoun
+Ito,That (far from both),Demonstrative Pronoun
+Saindo,Yours (plural),Pronoun
+Saindo,Yours / You (plural),Oblique Second Person Plural
+Saimo,Yours (singular),Pronoun
+Sako,Mine,Pronoun
+Sato,Ours (inclusive),Pronoun
+Sami,Ours (exclusive),Pronoun
+Saiya,His/Hers,Pronoun
+Saiya,His / Hers / Him / Her,Oblique Third Person Singular
+Baga,Particle (emphasis),Grammar
+Baga,emphasis particle,Grammar
+Daw,Particle (wonder),Grammar
+Daw,wonder/query particle,Grammar
+Gayo,Very / Exactly,Grammar
+Garo,Like / Similar to,Grammar
+Giraray,Again,Grammar
+Kutana,Hopefully / Wish,Grammar
+Kutana,hopefully / wish particle,Grammar
+Mani,Particle (reportative),Grammar
+Mani,Peanut,Noun
+Mani,reportative particle,Grammar
+Nanggad,Truly / Indeed,Grammar
+Nanggad,Indeed / Truly,Adv
+Sana,Only / Just,Grammar
+Sana,Hope / Only,Grammar
+Sana,Hopefully / Wishfully,Adverbs
+Sana,Only / Just / Hope,Grammar
+Pa,Still / Yet,Grammar
+Na,Already / Now,Grammar
+Dae,No / Not,Grammar
+Iyo,Yes,Grammar
+Iyo,Affirmative Yes,Grammar
+Siring,Like this / Thus,Grammar
+Siring,like this / similar to,Comparison / Adverb
+Siring,Like this / Such as,Conjunction / Particle
+Minsan,Sometimes / Even if,Grammar
+Ta,Because / For,Grammar
+Kundi,But / Except,Grammar
+O,Or,Grammar
+Kaso,When / However,Grammar
+Kaso,Matches / Flame,Noun
+Magsayaw,To dance,Verb
+Magsayaw,Dance,Verb
+Magkanta,To sing,Verb
+Maglayog,To fly,Verb
+Maglangoy,To swim,Verb
+Magsubli,To borrow,Verb
+Magsubli,Borrow,Verb
+Magpalaen,To change / Separate,Verb
+Mag-arkila,To rent,Verb
+Mag-isip,To think,Verb
+Mag-isip,Think,Verb
+Mag-anda,To prepare,Verb
+Mag-uli,To go home,Verb
+Mag-iba,To accompany,Verb
+Mag-iba,to join / go along with,Action / Verb
+Mag-iba,To accompany / Join,Verb
+Magtiwala,To trust,Verb
+Magtiwala,To rely / To trust,Verb
+Maghadok,To kiss,Verb
+Makarag,To waste,Verb
+Mag-ingat,To be careful,Verb
+Mag-ingat,To take care,Verb
+Mag-ingat,To be careful / Take care,Verb
+Mag-ingat,Take care,Verb
+Mag-ingat,to take care / be careful,Action / Verb
+Mag-omaw,To praise,Verb
+Mag-omaw,to praise / glorify,Action / Verb
+Mag-omaw,To praise / Worship,Verb
+Mag-ampon,To adopt,Verb
+Mag-iwal,To fight / Argue,Verb
+Mag-iriwal,To quarrel,Verb
+Magtanom,To plant,Verb
+Mag-ani,To harvest,Verb
+Maghugas,To wash hands/dishes,Verb
+Maghugas,To wash / Rinse,Verb
+Maghugas,To wash (objects/dishes),Verb
+Maghugas,Wash,Verb
+Maghugas,To wash (dishes/hands),Verb
+Maglaba,To wash clothes,Verb
+Maglaba,To wash (clothes),Verb
+Magpunas,To wipe,Verb
+Magwalis,To sweep,Verb
+Magbuka,To open,Verb
+Mag-ranihan,To close,Verb
+Mag-ranihan,to move closer / close,Action / Verb
+Magdaog,To win,Verb
+Madaog,To lose,Verb
+Isarado,To turn off / Extinguish,Verb
+Isarado,to shut / turn off,Action / Verb
+Magsulsul,To ignite / Regret,Verb
+Mag-asa,To hope,Verb
+Magtiyaga,To persevere,Verb
+Mag-ipon,To save/Gather,Verb
+Mag-ipon,To gather / Save,Verb
+Mag-ipon,to save money / collect,Action / Verb
+Mag-ipon,To save / Gather,Verb
+Mag-gastos,To spend,Verb
+Mag-gastos,to spend money,Action / Verb
+Magpautang,To lend money,Verb
+Magpautang,Lend money,Verb
+Magpautang,Lend,Verb
+Magpautang,To lend,Verb
+Mag-utang,To owe/Borrow money,Verb
+Magbayad,To pay,Verb
+Magbayad,Pay,Verb
+Magduman,To go there,Verb
+Magdiya,To stay there,Verb
+Mag-istar,To reside/Live,Verb
+Mag-istar,to reside,Action / Verb
+Mag-sakit,To suffer/Sicken,Verb
+Mag-sakit,to fall ill / suffer,Action / Verb
+Mag-umay,To heal/Recover,Verb
+Mag-umay,to heal / recover,Action / Verb
+Mag-adal,To study,Verb
+Mag-adal,To study / Learn,Verb
+Mag-adal,Study,Verb
+Mag-adal,to study / engage in adal,School / Academic (Verb)
+Magpasar,To pass (exam),Verb
+Magbagsak,To fail (exam),Verb
+Magtrabaho,To work,Verb
+Magtrabaho,Work,Verb
+Magpahingalo,To rest,Verb
+Maglakbay,To travel,Verb
+Magsakay,To ride,Verb
+Magbaba,To disembark / Go down,Verb
+Magbaba,To go down / disembark,Verb
+Magsakat,To climb / Go up,Verb
+Magsakat,To go up / climb,Verb
+Maghulog,To drop / Fall,Verb
+Magpulot,To pick up,Verb
+Mag-iwas,To avoid,Verb
+Mag-iwas,to stay clear of,Action / Verb
+Mag-abang,To wait / Ambush,Verb
+Mag-abang,To wait / Watch for,Verb
+Maghulat,To wait,Verb
+Mag-apura,To hurry,Verb
+Mag-apura,to rush,Action / Verb
+Maghinay,To slow down,Verb
+Magsinggit,To shout,Verb
+Mag-irog,To whisper / Move closer,Verb
+Mag-irog,to shift closer,Action / Verb
+Magngisi,To smile / Laugh,Verb
+Magtangis,To cry,Verb
+Magmungang,To sulk,Verb
+Mag-anggot,To be angry,Verb
+Mag-anggot,to get angry,Action / Verb
+Mag-takot,To fear / Scare,Verb
+Mag-takot,to feel afraid / fear,Action / Verb
+Magngalas,To marvel / Be surprised,Verb
+Magsubang,To joke,Verb
+Mag-uyam,To tease / Be bored,Verb
+Magtubod,To believe,Verb
+Maglingaw,To forget,Verb
+Maglingaw,Forget,Verb
+Maggirumdom,To remember,Verb
+Mag-utob,To fulfill / Obey,Verb
+Mag-utob,to fulfill an obligation,Action / Verb
+Magsuway,To disobey / Separate,Verb
+Mag-sunod,To follow,Verb
+Mag-sunod,to follow instructions,Action / Verb
+Mag-enot,To lead / Go ahead,Verb
+Mag-enot,to lead the way,Action / Verb
+Magaang,Light (weight),Adj
+Mabugat,Heavy,Adj
+Madiikit,Few / Little,Adj
+Dakul,Many / Much,Adj
+Maronas,Fragile / Soft,Adj
+Bagon,Slow,Adj
+Bagon,Slowly / Carefully,Adv
+Mabilis,Fast,Adj
+Mabilis,Fast / Quick,Adj
+Malandag,Slippery,Adj
+Maspot,Sticky,Adj
+Maniwis,Thin,Adj
+Madakula,Thick / Massive,Adj
+Mataas,Tall / High,Adj
+Mataas,High / Tall,Adj
+Mababa,Short / Low,Adj
+Mababa,Low / Short,Adj
+Maniwang,Skinny,Adj
+Mataba,Fat,Adj
+Mataba,Plump / Chubby,Adj
+Mataba,Fat / Chubby,Adj
+Matalisay,Sharp,Adj
+Mabolos,Blunt / Dull,Adj
+Mabansay,Elegant / Handsome,Adj
+Mabansay,Grand / Handsome,Adj
+Magaya-gaya,Joyful / Festive,Adj
+Makiwit,Crooked,Adj
+Matanos,Straight / Honest,Adj
+Matanos,Honest / Straight,Adj
+Madumi,Dirty,Adj
+Madumi,Slightly dirty,Adj
+Maliwanag,Bright / Clear,Adj
+Maliwanag,Luminous,Adj
+Maliwanag,bright / luminous,Adjective
+Madulom,Dark,Adj
+Mairas,Spicy,Adj
+Mairas,Stingy / Miserly,Adjectives
+Matabang,Tasteless / Bland,Adj
+Matabang,Bland / Tasteless,Adj
+Maalsom,Sour,Adj
+Maasgad,Salty,Adj
+Mapait,Bitter,Adj
+Mahamis,Sweet,Adj
+Mahamis,Smooth,Adj
+Malumoy,Soft,Adj
+Malumoy,Soft / Tender,Adj
+Matagas,Hard,Adj
+Matagas,Hard / Rigid,Adjective
+Matawas,Astringent,Adj
+Matalingkas,Free / Independent,Adj
+Mabaak,Split / Broken,Adj
+Mautob,Faithful / Compliant,Adj
+Iretable,Irritable / Short-tempered,Adj
+Mabuot,Kind / Well-behaved,Adj
+Mabuot,Kind / Gentle,Adj
+Mabuot,Kind / Good-natured,Adj
+Mabuot,Kind / Good,Adj
+Maisog,Brave / Fierce,Adj
+Matawud,Cowardly,Adj
+Mahiro,Energetic / Quick,Adj
+Mahaloy,Long-lasting / Slow,Adj
+Madali-dali,Instant / Very fast,Adj
+Masipag,Industrious,Adj
+Masipag,Hardworking / Diligent,Adj
+Matamad,Lazy,Adj
+Matalino,Intelligent,Adj
+Matalino,Clever / Smart,Adjective
+Mangaral,Foolish,Adj
+Mahipus,Quiet / Reserved,Adj
+Mahipus,Quiet / Silent,Adj
+Maribok,Noisy / Loud,Adj
+Maribok,Noisy,Adj
+Matarom,Pointed / Sharp,Adj
+Mapanghi,Smelly (urine-like),Adj
+Mahamot,Fragrant,Adj
+Mahamot,Fragrant / Sweet-smelling,Adj
+Mahamot,Smell's good,Adjective
+Mabaho,Stinky,Adj
+Pusog,Strong / Sturdy,Adj
+Luyah,Weak,Adj
+Puno,Full,Adj
+Basang,Empty,Adj
+Basa,Wet,Adj
+Basa,read,School / Academic
+Mala,Dry,Adj
+Onse,Eleven,Number
+Doose,Twelve,Number
+Trese,Thirteen,Number
+Katorse,Fourteen,Number
+Kinse,Fifteen,Number
+Disiseis,Sixteen,Number
+Disisiyete,Seventeen,Number
+Disiotso,Eighteen,Number
+Disinuebe,Nineteen,Number
+Bente,Twenty,Number
+Treinta,Thirty,Number
+Kwarenta,Forty,Number
+Sinkwenta,Fifty,Number
+Saisenta,Sixty,Number
+Sisetenta,Seventy,Number
+Otsenta,Eighty,Number
+Nobenta,Ninety,Number
+Sanggatos,One hundred,Number
+Sangribo,One thousand,Number
+Sanga-milyon,One million,Number
+Paha,Belt,Noun
+Singsing,Ring,Noun
+Singsing,Ring (jewelry),Accessories
+Kwintas,Necklace,Noun
+Hikaw,Earrings,Noun
+Relos,Watch / Clock,Noun
+Salamin,Mirror / Eyeglasses,Noun
+Salamin,Eyeglasses / Mirror,Noun
+Sombrero,Hat,Noun
+Kamiseta,T-shirt,Noun
+Pantalun,Pants,Noun
+Sinturon,Waistbelt,Noun
+Sinturon,Belt,Noun
+Tsinelas,Slippers,Noun
+Tsinelas,Slippers / Sandals,Noun
+Bintana,Window,Noun
+Pinto,Door,Noun
+Atop,Roof,Noun
+Atop,Roofing,Noun
+Padir,Wall,Noun
+Sogod,Floor,Noun
+Kusina,Kitchen,Noun
+Kwarto,Bedroom,Noun
+Kwarto,Room,Noun
+Banyo,Bathroom,Noun
+Hagdan,Stairs,Noun
+Bakuran,Yard / Garden,Noun
+Bakuran,Backyard / Yard,Noun
+Bakuran,Yard / Garden area,Noun
+Alat,Basket,Noun
+Alat,Woven basket,Noun
+Kadena,Chain,Noun
+Gunting,Scissors,Noun
+Kutsilyo,Knife,Noun
+Tenedor,Fork,Noun
+Kutsara,Spoon,Noun
+Plato,Plate,Noun
+Baso,Glass,Noun
+Baso,Drinking glass,Noun
+Kaldero,Cooking pot,Noun
+Kaldero,Pot,Noun
+Kaldero,Metal cooking pot,Kitchenware
+Kawa,Wok / Large pan,Noun
+Kawa,Large iron cooking wok,Kitchenware
+Pang-ipit,Tongs / Clip,Noun
+Gantang,Measuring bucket,Noun
+Timbangan,Scale,Noun
+Timbangan,Weighing scale,Trade
+Amo,Monkey,Noun
+Kambing,Goat,Noun
+Baka,Cow,Noun
+Baka,Cow / Beef,Noun
+Kabayo,Horse,Noun
+Opon,Wild pig,Noun
+Baboy,Pig,Noun
+Baboy,Pig / Pork,Noun
+Pato,Duck,Noun
+Ibon,Bird,Noun
+Sawa,Python / Snake,Noun
+Halo,Lizard,Noun
+Tukko,Gecko,Noun
+Kagabang,Crab,Noun
+Pasa,Shrimp,Noun
+Pasa,Bruise,Noun
+Pasa,submit,School / Academic
+Pusit,Squid,Noun
+Langgam,Ant,Noun
+Bubuyog,Bee,Noun
+Paruparo,Butterfly,Noun
+Gagamba,Spider,Noun
+Kahoy-kahoy,Shrub / Bush,Noun
+Rami,Weed / Grass,Noun
+Niyog,Coconut,Noun
+Saging,Banana,Noun
+Papaya,Papaya,Noun
+Mangga,Mango,Noun
+Santol,Santol fruit,Noun
+Lansones,Lanzones,Noun
+Rambutan,Rambutan,Noun
+Pili,Pili nut,Noun
+Pili,Choose / Select,Verb
+Kamatis,Tomato,Noun
+Bawang,Garlic,Noun
+Luya,Ginger,Noun
+Lada,Chili pepper,Noun
+Talong,Eggplant,Noun
+Sitaw,String beans,Noun
+Kalabasa,Squash / Pumpkin,Noun
+Pipino,Cucumber,Noun
+Gabi,Taro root,Noun
+Kamote,Sweet potato,Noun
+Asukar,Sugar,Noun
+Asin,Salt,Noun
+Asin,and,Grammar
+Suka,Vinegar,Noun
+Patis,Fish sauce,Noun
+Mantika,Cooking oil,Noun
+Tubig-alat,Saltwater,Noun
+Tubig-alat,Brine / Saltwater solution,Culinary
+Arak,Liquor / Wine,Noun
+Arak,Wine / Liquor,Noun
+Tsaa,Tea,Noun
+Sabaw,Broth / Soup,Noun
+Sabaw,Soup / Broth,Noun
+Sabaw,broth,Food / Transaction
+Sabaw,Broth / Clear soup,Culinary
+Kanin,Rice grain,Noun
+Hagupit,Lash / Blow,Noun
+Hangin,Wind / Air,Noun
+Araw-araw,Daily,Time
+Araw-araw,Every day,Time
+Araw-araw,Everyday / Daily,Time
+Aga,Morning,Time
+Hapon,Afternoon,Time
+Udto,Noon,Time
+Udto,Midday / Noon,Time
+Matangbanggui,Midnight,Time
+Bulan-bulan,Monthly,Time
+Taon,Year,Time
+Taon-taon,Yearly,Time
+Katakot-takot,Terrifying,Adj
+Bagyo,Typhoon / Storm,Noun
+Linog,Earthquake,Noun
+Baha,Flood,Noun
+Kalayo,Fire,Noun
+Aso,Smoke,Noun
+Dagat-dagatan,Lagoon / Lake,Noun
+Langit,Sky / Heaven,Noun
+Langit,Heaven / Sky,Nature / Religion
+Daga,Earth / Soil,Noun
+Daga,Earth / Land / Soil,Noun
+Daga,Earth / Land,Noun
+Daga,Soil,Noun
+Abono,Fertilizer,Noun
+Sanga,Branch,Noun
+Gamot,Root / Medicine,Noun
+Ulap,Cloud,Noun
+Kidlat,Lightning,Noun
+Dagungdong,Thunder,Noun
+Panginuron,Atmosphere,Noun
+Paliwanag,Explanation,Noun
+Paliwanag,Light / Explanation,Noun
+Paliwanag,Explanation / Clarification,Noun
+Simbag,Answer / Reply,Noun
+Simbag,answer,School / Academic
+Hapot,Question,Noun
+Sugo,Command / Message,Noun
+Mensahe,Message,Noun
+Surat,Letter / Writing,Noun
+Surat,write,School / Academic
+Surat,Letter / Document,Vocabulary
+Istorya,Story,Noun
+Istorya,history/story,School / Academic
+Istorya,story / talk,Noun
+Istorya,Story / Tale,Noun
+Taram,Word / Speech,Noun
+Taram,speak / talk,Speech / Verb
+Taram,speech / words spoken,Speech / Noun
+Kagustuhan,Will / Desire,Noun
+Pagkamoot,Love,Noun
+Pagkamoot,Love / Affection,Noun
+Pag-isip,Mindset / Thinking,Noun
+Pag-isip,Thinking / Thought,Noun
+Pag-asa,Hope,Noun
+Tiwi,Deformed / Twisted,Adj
+Tultol,Proper / Right,Adj
+Tultol,Proper / Righteous,Adj
+Balingdagat,Seafaring,Adj
+Makarawat,Playful,Adj
+Mapasensya,Patient,Adj
+Maimbot,Greedy,Adj
+Madaog-daog,Competitive,Adj
+Maringis,Cruel / Violent,Adj
+Mapanakit,Hurtful,Adj
+Mabayani,Heroic,Adj
+Madunong,Wise,Adj
+Madunong,Wise / Smart,Adj
+Maputi,Fair-skinned / White,Adj
+Maitom,Dark-complexioned,Adj
+Maitom,Black / Dark,Adj
+Maikot,Miserly / Stingy,Adj
+Magastos,Extravagant,Adj
+Matanos-puso,Righteous,Adj
+Masingki,Intense / Strict,Adj
+Maanod,Drifting,Adj
+Malinaw,Transparent / Clear,Adj
+Maliwag,Slow / Tedious,Adj
+Mapasakit,Troublesome,Adj
+Masagana,Abundant,Adj
+Mahirap,Poor / Difficult,Adj
+Mayaman,Rich / Wealthy,Adj
+Mayaman,Wealthy / Rich,Adj
+Masakit,Painful / Hard,Adj
+Masakit,Somewhat hard,Adj
+Masakit,difficult / painful,Adjective
+Magaspang,Rough,Adj
+Magaspang,Coarse,Adj
+Bistong-Bisto,Famous,Adj
+Mababaw,Shallow,Adj
+Mababaw,Slightly shallow,Adj
+Mababaw,Shallow level,Adj
+Hararom,Deep,Adj
+Hararom,Profoundly deep,Adj
+Makipot,Narrow,Adj
+Malapad,Wide,Adj
+Malapad,Broad,Adj
+Maniwang-niwang,Slightly thin,Adj
+Marhay-rhay,Fairly good,Adj
+Masiram,Tasty,Adj
+Masiram,Delicious,Adj
+Masiram,delicious / tasty,Adjective
+Matani-tanos,Fairly straight,Adj
+Malinig,Neat,Adj
+Malinig,Clean,Adj
+Malinig,clean / neat,Adjective
+Madiklom,Dim,Adj
+Madiklom,Dark / Dim,Adj
+Malumanay,Soft-spoken,Adj
+Pagkaon,Eating / Meal,Noun
+Paginom,Drinking,Noun
+Pagturog,Sleeping / Sleep,Noun
+Paglakaw,Walking / Walk,Noun
+Pagdalagan,Running / Run,Noun
+Pagtukaw,Sitting,Noun
+Pagtindog,Standing,Noun
+Pagbasa,Reading,Noun
+Pagbasa,Reading / Act of reading,Noun
+Pagsurat,Writing,Noun
+Pagsurat,Writing / Act of writing,Noun
+Paghiling,Looking / Seeing,Noun
+Pagdangog,Listening,Noun
+Pagtaram,Speaking / Speech,Noun
+Paghapot,Asking / Questioning,Noun
+Pagsimbag,Answering / Response,Noun
+Pagtabang,Helping / Assistance,Noun
+Paggibo,Making / Action,Noun
+Pagbakal,Buying / Purchase,Noun
+Pagluto,Cooking,Noun
+Paglinig,Cleaning,Noun
+Pagkarigos,Bathing / Bath,Noun
+Pagsayaw,Dancing / Dance,Noun
+Pagkanta,Singing / Song,Noun
+Paglayog,Flying / Flight,Noun
+Paglangoy,Swimming,Noun
+Pagsubli,Borrowing,Noun
+Pag-anda,Preparation,Noun
+Pag-uli,Returning home,Noun
+Pagtiwala,Trusting,Noun
+Paghadok,Kissing / Kiss,Noun
+Pagingat,Caution / Carefulness,Noun
+Pag-omaw,Praise / Worship,Noun
+Pag-omaw,Praise / Adoration,Nouns
+Pag-iriwal,Quarreling / Argument,Noun
+Pagtanom,Planting / Agriculture,Noun
+Pag-ani,Harvesting / Harvest,Noun
+Paghugas,Washing,Noun
+Paglaba,Laundering,Noun
+Paggana,Victory / Winning,Noun
+Pagkadaog,Loss / Defeat,Noun
+Pagkadaog,Defeat / Loss,Noun
+Pag-ipon,Savings / Gathering,Noun
+Pag-ipon,Accumulation / Saving,Noun
+Pag-gasto,Expenditure / Spending,Noun
+Pagbayad,Payment,Noun
+Pag-istar,Residency / Living,Noun
+Pag-adal,Study / Education,Noun
+Pag-adal,Studies / Education,Noun
+Pag-adal,the act of adal,School / Academic (Noun)
+Pagtrabaho,Work / Employment,Noun
+Pagpahingalo,Rest / Relaxation,Noun
+Paglakbay,Travel / Journey,Noun
+Pagsakay,Boarding / Riding,Noun
+Paghalat,Waiting,Noun
+Pagkurahaw,Shouting / Scream,Noun
+Pagngisi,Laughter / Laughter,Noun
+Pagngisi,Laughter,Noun
+Paghibi,Crying / Weeping,Noun
+Pag-anggot,Anger,Noun
+Pagtakot,Fear,Noun
+Pagngalas,Surprise / Wonder,Noun
+Pagsuba,Joking / Humor,Noun
+Pagtubod,Belief / Faith,Noun
+Paglingaw,Forgetfulness,Noun
+Paggirumdom,Remembrance / Memory,Noun
+Pagsunod,Obedience / Following,Noun
+Pagsunod,Obedience / Compliance,Noun
+Aklatan,Library,Noun
+Ospital,Hospital,Noun
+Tindahan,Store / Shop,Noun
+Tindahan,store,Places / Navigation
+Kalsada,Street / Road,Noun
+Kalsada,Street / Highway,Noun
+Kalsada,Main road / Street,Noun
+Plaza,Town square / Plaza,Noun
+Plaza,Town square,Noun
+Plaza,Plaza / Town Square,Noun
+Pintuan,Doorway / Entrance,Noun
+Pintuan,Door,Vocabulary
+Lanob,Wall (interior),Noun
+Silid,Room,Noun
+Katakod-takod,Interconnected,Adj
+Mag-usip,To converse / Tell,Verb
+Mag-usip,To relate / Tell stories,Verb
+Mag-atender,To attend,Verb
+Matinabangon,Helpful / Generous,Adj
+Matinabangon,Helpful / Supportive,Adj
+Matinabangon,Helpful,Adj
+Ulan,Pillow,Noun
+Kuskusan,Doormat / Scrubber,Noun
+Basurahan,Trash can,Noun
+Basurahan,Trash bin,Noun
+Taniman,Garden / Field,Noun
+Pamilya,Family,Noun
+Lolo,Grandfather,Noun
+Lola,Grandmother,Noun
+Pangaturogan,Dream,Noun
+Pangaturogan,To dream,Verb
+Katanusan,Righteousness / Truth,Noun
+Katanusan,Righteousness / Integrity,Noun
+Katanusan,Justice / Human rights,Legal
+Katanusan,Justice / Truth,Noun
+Aram,To know,Verb
+Aram,Know / Knowledge,Verb
+Aram,Knowledge / To know,Noun
+Aram,To know / Knowledge,Verb
+Sabut,To understand,Verb
+Gusto,To want / Like,Verb
+Bukas,Tomorrow,Time
+Kasuudma,Yesterday,Time
+Puyat,Stay up late,Verb
+Sipag,Diligence,Noun
+Sipag,Diligence / Hard work,Values
+Katutubong,Native / Indigenous,Adj
+Buhay,Life,Noun
+Isip,Think / Mind,Verb
+Isip,Mind / Thought,Noun
+Isip,thought / mind,Mind / Noun
+Isip,Thought,Noun
+Sabi,Say / Tell,Verb
+Mati,Feel / Sensation,Verb
+Kua,Get / Take,Verb
+Tago,Hide / Store,Verb
+Tago,hiding / concealment,Action / Noun
+Tago,Hide / Store away,Verb
+Tago,Hide / Store safely,Verb
+Hanap,Search / Find,Verb
+Hanap,search / quest,Task / Noun
+Gibo,Make / Work,Verb
+Gibo,Work / Deed / Action,Noun
+Gibo,work,School / Academic
+Gibo,work / task / creation,Task / Noun
+Gibo,work / act / make,Task / Verb
+Gibo,Work / Create / Do,Verb
+Iwal,Fight / Dispute,Verb
+Iwal,Quarrel / Conflict,Noun
+Iwal,fight/argument,Civic / Social
+Iwal,Fight / Quarrel,Verb
+Sipilyuhan,To brush teeth,Verb
+Magsabon,To wash with soap,Verb
+Magtrapo,To wipe down,Verb
+Maghimay,To pick meat off bones / debone,Verb
+Sipilyo,Toothbrush,Noun
+Sabon,Soap,Noun
+Towalya,Towel,Noun
+Surog,Comb,Noun
+Surog,alliance/support,Civic / Social
+Kambas,Blanket / Bed sheet,Noun
+Lawa,Spiderweb / Cobweb,Noun
+Kagitingan,Bravery / Valor,Noun
+Kagitingan,Bravery / Heroism,Noun
+Agihan,Passageway / Path,Noun
+Agihan,Path / Passageway,Noun
+Palaen,Different / Separate,Adj
+Palaen,change / differentiate,Action / Verb
+Magbanwa,To reside in town / country,Verb
+Katakod,Connected / Attached,Adj
+Katakod,Connection / Bond,Noun
+Katuninungan,Peace / Tranquility,Noun
+Katuninungan,Peace,Noun
+Kapiestahan,Fiesta / Feast,Noun
+Kapiestahan,Fiesta / Feast day,Noun
+Katoninongan,Peace / Tranquility,Noun
+Katoninongan,Peace / Quietness,Noun
+Katoninongan,Peace / Harmony,Noun
+Katoninongan,Peace / Serenity,Noun
+Tabang,Help,Noun
+Tabang,Help / Assistance,Noun
+Tabang,Help!,Expressions
+Sanggawad,Helper / Companion,Noun
+Pangudto,Lunch,Food
+Panghapunan,Dinner,Food
+Pag-iriba,Companionship / Togetherness,Noun
+Pag-iriba,Companionship / Fellowship,Noun
+Pag-iriba,Companionship / Company,Noun
+Pag-iriba,Companionship / Association,Social
+Makaturing,Thoughtful / Considerate,Adj
+Mag-usipon,To discuss / Share stories,Verb
+Mag-usipon,To converse / Discuss,Verb
+Mag-usipon,To converse / Talk,Verb
+Mag-usipon,To discuss / Talk,Verb
+Pagpahalaga,Appreciation / Respect,Noun
+Pagpahalaga,Value / Esteem,Noun
+Pangaturugan,Dream,Noun
+Katoninungan,Peace,Noun
+Katoninungan,Peace / Tranquility,Noun
+Mahigos,Diligent / Hardworking,Adj
+Mahigos,Hardworking / Diligent,Adj
+Mahigos,Hardworking,Adj
+Mahigos,Industrious,Adj
+Kalag,Soul / Spirit,Noun
+Karamutan,Greed / Selfishness,Noun
+Pakarhay,Fix / Repair,Verb
+Pakarhay,To repair / Improve,Verb
+Lugar,Place / Location,Noun
+Lugar,place/spot,Places / Navigation
+Kausip,Conversation partner,Noun
+Matiyaga,Persevering / Patient,Adj
+Matiyaga,Persevering,Adj
+Magsarig,To rely / To lean on,Verb
+Magsarig,To rely / To trust,Verb
+Magsarig,To trust / Rely on,Verb
+Pag-iingat,Carefulness / Caution,Noun
+Kainaman,Goodness / Well-being,Noun
+Mag-istatwa,To stay put / Remain still,Verb
+Komunidad,Community,Noun
+Mag-urulay,To converse / Discuss together,Verb
+Makisumaro,To unite / Join with others,Verb
+Makisumaro,To unite / Participate,Verb
+Makisumaro,Unite with others,Verb
+Pakarhayon,To repair / Improve,Verb
+Pagsarig,Trust / Confidence,Noun
+Kausipon,To speak with / Talk to,Verb
+Paglingkod,Service / Serving,Noun
+Makarag-karag,Wasteful,Adj
+Mag-ataman,To care for / Nurture,Verb
+Mag-ataman,To take care of / Nurture,Verb
+Mag-ataman,Care for,Verb
+Mag-ataman,To take care / Nurture,Verb
+Kaisturyahan,Person to talk to,Noun
+Pag-ataman,Care / Nurturing,Noun
+Pag-ataman,Care / Nurture,Noun
+Pag-ataman,Caretaking / Nurturing,Nouns
+Maniwala,To believe,Verb
+Kadamutan,Greed / Selfishness,Noun
+Pakarayon,To improve / To fix,Verb
+Iriwal,Dispute / Quarrel,Noun
+Pag-aadal,Education / Studying,Noun
+Maniwalaan,To believe in,Verb
+Mag-ulay-ulay,To converse together,Verb
+Matingat-ingat,Very cautious / Careful,Adj
+Mag-amigo,Friends / Companions,Noun
+Kapaanggot,Annoying,Adj
+Katakutan,Frightening,Adj
+Katood,Close friend,Noun
+Katood,Friend,Noun
+Kabayadan,Payment / Fee,Noun
+Kabitoonan,Starry sky,Noun
+Kabitoonan,Stars / Starry sky,Noun
+Kagubatan,Forest / Jungle,Noun
+Kaligtasan,Safety / Salvation,Noun
+Kaligtasan,Safety,Noun
+Kamondoan,Sorrow / Grief,Noun
+Kaogmahan,Joy / Happiness,Noun
+Kaogmahan,Happiness / Joy,Vocabulary
+Kasakitan,Hardship / Suffering,Noun
+Katipunan,Assembly / Gathering,Noun
+Katorogan,Slumber / Sleep,Noun
+Mag-aling,To entertain / Comfort,Verb
+Mag-apron,To wear an apron,Verb
+Mag-asikaso,To attend to / Manage,Verb
+Mag-awas,To overflow,Verb
+Mag-ayog,To shake / Stir,Verb
+Mag-iba-iba,To vary / Varying,Verb
+Mag-iba-iba,Vary / Change continuously,Verb
+Mag-iba-iba,To vary / Be different,Verbs
+Mag-ilaw,To light up,Verb
+Mag-isog,To move over / Shift,Verb
+Mag-olay,To speak / Converse,Verb
+Mag-olok,To laugh softly,Verb
+Mag-ukol,To fit / Measure,Verb
+Mag-untok,To stop / Cease,Verb
+Mag-uyon,To agree / Consent,Verb
+Mag-uyon-uyon,To get along together,Verb
+Mag-yaya,To invite / Urge,Verb
+Mag-yuko,To bow down,Verb
+Magbago,To change / Transform,Verb
+Magbalos,To repay / Reciprocate,Verb
+Magbantay,To guard / Watch over,Verb
+Magbantay,To guard / Watch,Verb
+Magdangat,To cherish / Hold dear,Verb
+Maggiya,To guide / Direct,Verb
+Maghawan,To clear land / Weed,Verb
+Maghawan,To clear,Verb
+Maghimulo,To reflect deeply,Verb
+Maghinabon,To contemplate,Verb
+Maghinagap,To yearn / Long for,Verb
+Maghingoa,To strive / Endeavor,Verb
+Magkagi,To rake / Scrape,Verb
+Magkanaw,To dissolve / Melt,Verb
+Magkapot,To hold / Grasp,Verb
+Magkimat,To blink / Wink,Verb
+Magkudkod,To grate coconut,Verb
+Magluwas,To go outside,Verb
+Magluwas,Exit,Verb
+Magmamasid,To observe carefully,Verb
+Magpaliphas,To pass the time,Verb
+Magpamarapa,To stumble along,Verb
+Magpasyal,To take a stroll,Verb
+Magpasyal,To stroll / Visit,Verb
+Magpilo,To fold clothes,Verb
+Magpuli,To go home,Verb
+Magpuli,Go home,Verb
+Magsakdo,To fetch water,Verb
+Magsalaysay,To narrate / Explain,Verb
+Magsalog,To mop / Clean the floor,Verb
+Magsalva,To save / Rescue,Verb
+Magsayod,To express clearly,Verb
+Magsirbi,To serve / Be useful,Verb
+Magsurip,To inspect / Examine,Verb
+Magtanggol,To defend / Protect,Verb
+Makamomoan,Astonishing / Amazing,Adj
+Makasalanan,Sinful,Adj
+Malaing,Harmful / Poisonous,Adj
+Malumbay,Melancholy / Sad,Adj
+Mapangahas,Daring / Audacious,Adj
+Mapawa,Bright / Luminous,Adj
+Masingkay,Agile / Nimble,Adj
+Matimbang,Balanced / Equal weight,Adj
+Kanding,Goat,Noun
+Abaga,Shoulder,Noun
+Agang-aga,Very early morning,Time
+Alagad,However / But,Grammar
+Amo-amuhan,To pamper / Coax,Verb
+Aningal,Echo,Noun
+Balinganga,Careless / Unaware,Adj
+Batiis,Lower leg / Calf,Noun
+Bayaani,Hero,Noun
+Bibig,Lips / Mouth,Noun
+Bua,Crazy / Insane,Adj
+Dalon,To visit / Greet,Verb
+Dida,Heel of foot,Noun
+Digo,Blood,Noun
+Dukang,Clumsy / Awkward,Adj
+Gubing,Attire / Garment,Noun
+Guron,Wrinkle,Noun
+Halangkon,Very tall / Very high,Adj
+Hibat,Asymmetrical / Tilt,Adj
+Kalibutan,World / Universe,Noun
+Kansang,Rust,Noun
+Mayana,Later on / In a while,Time
+Paharong,Homeward / Toward home,Direction
+Palyo,Fault / Imperfection,Noun
+Kasuarin,When (past),Time
+Kasuarin,whenever / every time,Grammar
+Bulod,Mountain / Hill,Noun
+Bulod,Hill / Mountain,Noun
+Ama,Father,Noun
+Ina,Mother,Noun
+Maestra,Teacher (female),Noun
+Maestra,Teacher,Noun
+Maestra,teacher (F),School / Academic
+Maturog,To sleep,Verb
+Magpangkat,To group / Assemble,Verb
+Salamat,Thank you,Politeness
+Salamat,Thank you.,Greeting
+Kagayanon,Splendor / Magnificence,Noun
+Kagayanon,Beauty / Splendor,Noun
+Pagpakarhay,Improvement / Repair,Noun
+Makaragay-kagay,Delightful / Charming,Adj
+Sirang-aldaw,Sunrise / Dawn,Time
+Salupon-aldaw,Sunset,Time
+Sirang,Shine / Ray,Noun
+Salup,Setting of sun,Noun
+Maugma,Joyful / Glad,Adj
+Pangarap,Aspiration / Dream,Noun
+Pangarap,Dream / Aspiration,Noun
+Pangarap,Dream / Wish,Noun
+Katarungan,Justice / Equity,Noun
+Pagbyahe,Travel / Journey,Noun
+Katutubo,Native / Local,Noun
+Kipot,Narrow / Tight,Adj
+Awas,Overflow / Spill,Verb
+Kapot,Grip / Hold,Verb
+Kudkod,Grate / Scrape,Verb
+Mamasid,Observe / Watch,Verb
+Sakdo,Fetch water,Verb
+Surip,Inspect / Examine,Verb
+Tanggol,Defend / Protect,Verb
+Ikot,Turn / Rotate,Verb
+Lumbay,Sorrow / Melancholy,Noun
+Pawa,Clarity / Light,Noun
+Pawa,Clear land / Brightness,Noun
+Singkay,Quickness / Agility,Noun
+Timbang,Weight / Scale,Noun
+Timbang,weight/scale,Food / Transaction
+Timbang,Weigh / Balance,Verb
+Araw,Sun / Day,Noun
+Rabon,Grass / Weed,Noun
+Karni,Meat,Noun
+Pusang,Cat,Noun
+Pahag,Bird,Noun
+Karabaw,Water buffalo,Noun
+Bubong,Roof,Noun
+Katre,Bed,Noun
+Natad,Yard / Lawn,Noun
+Natad,Yard,Noun
+Opicina,Office,Noun
+Banwaan,Town / Countryside,Noun
+Banwaan,Town / Country,Noun
+Lungsod,City / Town,Noun
+Baybay,Beach / Sand,Noun
+Sapa,Creek / Stream,Noun
+Sapa,creek,Places / Navigation
+Magkakan,To eat,Verb
+Magkakan,Eat,Verb
+Matawag,To call,Verb
+Magtinda,To sell,Verb
+Magtinda,Sell,Verb
+Bebeng,Duck,Noun
+Bulsa,Pocket,Noun
+Pader,Wall,Noun
+Bakod,Fence,Noun
+Tali,Rope / Cord,Noun
+Ilaw,Light / Lamp,Noun
+Kandila,Candle,Noun
+Maluway,Slow / Gentle,Adj
+Matamis,Sweet,Adj
+Maalalat,Salty,Adj
+Madasig,Energetic / Active,Adj
+Magsipilyo,To brush teeth,Verb
+Magsipilyo,Brush (teeth),Verb
+Kagaran,Drought / Dry season,Noun
+Kabuotan,Kindness / Goodness,Noun
+Kabuotan,Kindness,Noun
+Katotohanan,Truth / Reality,Noun
+Paglaom,Hope / Expectation,Noun
+Paglaom,Hope,Noun
+Paghimala,Miracle / Wonder,Noun
+Makaraw,Playful / Mischievous,Adj
+Maintindihan,To understand,Verb
+Kaulay,Conversation partner,Noun
+Kaulay,Interlocutor / Person spoken to,Noun
+Paghambing,Comparison,Noun
+Sinelas,Slippers,Noun
+Pantaloon,Pants / Trousers,Noun
+Socks,Socks,Noun
+Relo,Watch / Clock,Noun
+Kapa,Cape / Raincoat,Noun
+Kawali,Frying pan,Noun
+Tinidor,Fork,Noun
+Itlog,Egg,Noun
+Bayabas,Guava,Noun
+Luyos,Areca nut / Betel nut,Noun
+Lasona,Onion,Noun
+Laya,Ginger,Noun
+Pechay,Bok choy / Chinese cabbage,Noun
+Kangkong,Water spinach,Noun
+Bagas,Uncooked milled rice,Noun
+Bagas,Uncooked rice,Noun
+Sira,Fish / Dish paired with rice,Noun
+Sira,fish / viand,Noun
+Sira,Viand / Main dish eaten with rice,Culinary
+Sira,Viand / Fish,Noun
+Kandado,Padlock / Lock,Noun
+Kandado,Padlock,Hardware
+Susi,Key,Noun
+Kuwaderno,Notebook,Noun
+Medyas,Socks,Noun
+Kalo,Hat / Cap,Noun
+Paypay,Hand fan,Noun
+Kalan,Stove / Hearth,Noun
+Pitsa,Jug / Pitcher,Noun
+Mangkok,Bowl,Noun
+Bandahali,Tray,Noun
+Bandahali,Serving tray,Noun
+Kaguran,Coconut grater,Noun
+Pang-ahit,Razor / Shaver,Noun
+Karayom,Needle,Noun
+Ansat,Thread,Noun
+Pala,Shovel,Noun
+Pala,Shovel / Spade,Noun
+Tambal,Medicine / Remedy,Noun
+Paminta,Black pepper,Food
+Tubog,Puddle / Mud hole,Noun
+Alapaw,Overgrown grass,Noun
+Baging,Vine / Climbing plant,Noun
+Sagasa,Torrent / Rush of water,Noun
+Kikil,Metal file tool,Noun
+Kikil,Metal file (tool),Noun
+Pakang,Wooden mallet,Noun
+Tiyerang,Roof truss,Noun
+Baklad,Fish corral / Trap,Noun
+Sikag,Broom stick (from palm rib),Noun
+Nito,Rattan vine for weaving,Noun
+Banggerahan,Wooden dish drying rack,Noun
+Banggerahan,Dish-drying rack,Noun
+Tapayan,Earthenware water jar,Noun
+Galan,Bamboo water container,Noun
+Poypoy,Feather duster,Noun
+Ragadi,Hand saw,Noun
+Kapuranduhan,Resting place / Tranquility,Noun
+Paghimo,Creation / Crafting,Noun
+Pagkamatanos,Righteousness / Uprightness,Noun
+Kagutoman,Famine / Hunger,Noun
+Pagurolay-ulay,Conversation / Dialogue,Noun
+Kapurohan,Archipelago / Island group,Noun
+Kaharanihan,Proximity / Closeness,Noun
+Kaharayoan,Distance / Remoteness,Noun
+Pagtambang,Ambush / Waiting in ambush,Noun
+Paghinapo,Gasping for breath / Panting,Noun
+Paghagong,Snoring,Noun
+Tingog,Voice / Sound,Noun
+Gamut,Root,Noun
+Bunga,Fruit / Result,Noun
+Baro,Dress / Garment,Noun
+Baro,Dress / Attire,Noun
+Baro,Garment / Dress,Noun
+Tula,Poem,Noun
+Kultura,Culture,Noun
+Baretan,News / Information,Noun
+Madalandag,Slippery,Adj
+Masiramon,Very delicious,Adj
+Ablay,Shoulder shawl / Scarf,Noun
+Agi-agi,Reminiscence / Past events,Noun
+Agaw-naagaw,Snatched away / Contested,Verb
+Alang-alang,Hesitant / Incomplete,Adj
+Aripoot,Sweltering heat / Humidity,Noun
+Aripoot,Warmth / Humidity,Noun
+Asog,Ancient priest / Shaman,Noun
+Bagon-tawo,Bachelor / Young man,Noun
+Bakalang,Plank / Timber beam,Noun
+Batikon,Spotted / Speckled,Adj
+Binangkal,Native fried sesame dough ball,Food
+Buntog,Quail bird,Noun
+Buntog,Quail,Animals
+Kalaguin,To rattle / Clatter,Verb
+Kalungkay,Moringa / Drumstick leaf,Noun
+Kamatesan,Tomato patch,Noun
+Kamot-kahoy,Cassava root,Food
+Kanigoan,Sufficient / Adequate,Adj
+Karakarak,Abruptly / Hurriedly,Adv
+Kultig,To nudge with elbow,Verb
+Loglog,To submerge / Drown,Verb
+Abat,Ambush / Intercept,Verb
+Abiso,Notice / Advice,Noun
+Agal-agal,Hesitation / Delay,Noun
+Agawin,To snatch away,Verb
+Agnas,Decayed / Eroded,Adj
+Agumaom,Mildew / Mold,Noun
+Akip,Include / Embrace,Verb
+Aliaw,Distract / Console,Verb
+Alpombra,Rugs / Carpet,Noun
+Amang,Mute person,Noun
+Amon,Of us (exclusive),Grammar
+Anit,Skin / Hide,Noun
+Anit,Hide / Leather / Skin,Noun
+Antao,Distant sight / Outlook,Noun
+Aramid,To make / Work,Verb
+Arawan,Deprive of sun,Verb
+Asinon,To add salt,Verb
+Aswang,Mythical creature,Noun
+Atang,Offering / Sacrifice,Noun
+Awat,Separate fighting parties,Verb
+Aya,Expressing surprise,Grammar
+Ayon,Join or go with,Verb
+Aypa,Lower down / Subside,Verb
+Bait,Lining of clothes,Noun
+Bala,Bullet / Ammunition,Noun
+Balaog,Gift / Present,Noun
+Balaog,Gift / Reward / Present,Noun
+Balos,Reciprocate / Repay,Verb
+Baluarte,Stronghold / Bastion,Noun
+Baluarte,Stronghold,Noun
+Bamban,Soft bamboo strip,Noun
+Banggiin,Be overtaken by night,Verb
+Barang,Sorcery / Spell,Noun
+Basaon,To read something,Verb
+Batik,Spotted pattern,Noun
+Batuon,Pebbly / Rocky ground,Adj
+Bayanihan,Communal unity,Noun
+Bayanihan,Communal unity and cooperation,Culture
+Binagol,Crude / Rough execution,Adj
+Bitoonon,Starry / Bright night,Adj
+Bokabolaryo,Vocabulary,Noun
+Boso,Peeping tom / Diver,Noun
+Buaon,Drive someone crazy,Verb
+Buhos,Pour out liquid,Verb
+Bukal,Natural spring,Noun
+Bukal,Spring / Water fountain,Noun
+Bulos,Flow of water,Noun
+Bunot,Coconut husk,Noun
+Burog,Intoxicated / Drunk,Adj
+Buskay,Cowrie shell,Noun
+Buskay,Seashell,Noun
+Butong,Young coconut fruit,Food
+Byahero,Traveler / Passenger,Noun
+Dagos,Come in / Proceed,Verb
+Dalanon,Watch / View a show,Verb
+Dama,Checkers game,Noun
+Danay,Constant / Continuous,Adj
+Daya,Fraud / Deceit,Noun
+Diperensya,Difference / Defect,Noun
+Dulagan,Run away from,Verb
+Duwag,Timid / Coward,Adj
+Ganting,Reward / Recompense,Noun
+Garan,Completely dried,Adj
+Garing,Ivory material,Noun
+Gaway,Taro leaf,Food
+Gaway,Taro leaves,Noun
+Gihay,Leaf midrib strip,Noun
+Guhit,Draw a line,Verb
+Gulod,Mountain ridge,Noun
+Hablon,Handwoven textile,Noun
+Hagkus,Waist sash,Noun
+Halnas,Slipperiness of surface,Noun
+Hamog,Morning dew,Time
+Hamog,Dew,Noun
+Handum,Longing / Desire,Noun
+Hinagap,Deep yearning,Noun
+Kalasag,Shield armor,Noun
+Kalawit,Sickle blade,Noun
+Kanit,Contagious / Spread,Adj
+Kanonigo,Canon ecclesiastic,Noun
+Kapayawan,Illumination / Light,Noun
+Kasagitan,Climax / Peak,Noun
+Katuparan,Fulfillment,Noun
+Kawayan,Bamboo stalk,Noun
+Labi,Human lip,Noun
+Labi,Excess,Noun
+Lagnat,Fever illness,Noun
+Lalim,Depth / Deepness,Noun
+Lapad,Breadth / Width,Noun
+Laway,Saliva / Spittle,Noun
+Limpoy,Shade from sun,Noun
+Lisang,Terror / Sudden fright,Noun
+Loglogon,Submerge completely,Verb
+Luwasan,Exit / Outside area,Noun
+Mag-ayon,Join together,Verb
+Maimbod,Loyal / Devoted,Adj
+Maimbong,Warm / Tepid,Adj
+Maratong,Will arrive soon,Verb
+Naga,Naga City,Noun
+Nag-aarak,Crying / Weeping,Verb
+Nag-aawit,Singing,Verb
+Nag-aayam,Hunting with dogs,Verb
+Nagcacalayo,On fire / Burning,Adj
+Nag-iimbitar,Inviting,Verb
+Namuya,Liked / Admired,Verb
+Nanay,Mother,Noun
+Ngipon,Tooth,Noun
+Malumlom,Cloudy sky / Gloom,Noun
+Oma,Farm / Rice field,Noun
+Oma,Farm / Agricultural land,Agriculture
+Oma,Farm / Field,Noun
+Opo,Politeness marker (Yes),Politeness
+Orosipon,Story / Narrative,Noun
+Pag-agom,Marriage / Wedlock,Noun
+Palopalo,Wooden laundry paddle,Noun
+Pustura,Well-dressed / Elegant,Adj
+Putahe,Dish / Course,Food
+Rensa,Grid / Trellis,Noun
+Salamas,Thanks / Gratitude,Politeness
+Sambre,Shade / Arbor,Noun
+Sobyang,Sprout / Bamboo shoot,Noun
+Subang,East / Sunrise,Direction
+Tabango,Flying beetle,Noun
+Taga-Naga,From Naga,Noun
+Tagom,Indigo dye / Dark stain,Noun
+Talingcas,Freed / Liberated,Adj
+Kastigo,Punishment / Chastisement,Noun
+Basang-basa,Soaked / Drenched,Adj
+Talingkas,Free / Unbound,Adj
+Pagsakit,Suffering / Agony,Noun
+Tiyamba,Coincidence / Fluke,Noun
+Kasaganaan,Abundance / Prosperity,Noun
+Alumaymay,Gentle breeze / Mildness,Noun
+Tios,Endure / Suffer poverty,Verb
+Lagbas,Pierce through / Penetrate,Verb
+Sabsab,Graze / Devour greedily,Verb
+Balinghag,Look up suddenly,Verb
+Sagip,Rescue / Save,Verb
+Ribo,Confuse / Distract,Verb
+Pasipara,Disregard / Ignore,Verb
+Sumpay,Join / Extension,Noun
+Sumpay,extension,Places / Navigation
+Sumpay,Connection / Extension,Noun
+Kandili,Patronage / Care,Noun
+Arikas,Restless / Active,Adj
+Balingbing,Starfruit / Turncoat,Noun
+Ligtas,Safe / Secure,Adj
+Kabuolt,Pain / Ache,Noun
+Luyong,Overripe fruit,Adj
+Talaba,Oyster,Food
+Kadasigon,Enthusiasm / Zeal,Noun
+Madaog-daogon,Humble / Modest,Adj
+Naghihinayang,Hesitation,Noun
+Makamuklat,Eye-opening / Illuminating,Adj
+Nagkaka-iribahan,Gathering together / Companionship,Noun
+Kairiba,Companion / Partner,Noun
+Kairiba,companions,Civic / Social
+Kalikasan,Nature / Environment,Noun
+Kalikasan,Nature,Noun
+Aga-aga,Very early morning,Time
+Baktas,Shortcut path,Noun
+Balkon,Porch / Balcony,Noun
+Banyag,Foreigner / Stranger,Noun
+Bapor,Ship / Vessel,Noun
+Barangay,Village / District,Noun
+Batag,Banana,Noun
+Bayo,Pound rice,Verb
+Baybayon,Seashore / Beach,Noun
+Bigaa,Elephant ear plant,Noun
+Bigaa,Elephant ear plant / Taro variant,Plants / Flora
+Bikolano,Bicolano person,Noun
+Bulawan,Gold,Noun
+Bulawan,Gold / Golden,Colors / Materials
+Byahe,Travel / Trip,Noun
+Dawa,Even if / Although,Expression
+Diga,Gift / Token,Noun
+Ikinaugma,Pleased / Delighted,Adj
+Ingat,Take care / Careful,Verb
+Ingat,care / caution,Everyday / Noun
+Inomon,Drink / Beverage,Noun
+Inomon,Beverage / Drink,Noun
+Kaban,Chest / Trunk,Noun
+Kanta,Song,Noun
+Laing,Laing (taro dish),Food
+Laing,shredded taro leaves,Food / Transaction
+Tatay,Father,Noun
+Abaka,Abaca / Manila hemp,Noun
+Tanoman,Garden / Plantation,Noun
+Laro,Game / Play,Noun
+Panganganuron,Cloudy sky / Clouds,Noun
+Tingraw,Ray of light / Brightness,Noun
+Mag-isip-isip,Reflect / Ponder carefully,Verb
+Mag-oolay,Converse / Talk to each other,Verb
+Mag-oolay,Converse,Verb
+Mag-iriba,Go together / Stay together,Verb
+Mag-iriba,Go together,Verb
+Magmatiryal,Gather materials,Verb
+Magpakumbaba,Humble oneself,Verb
+Magbalik-loob,Reconcile / Return to faith or good terms,Verb
+Magpasakat,Bring or load something upstairs,Verb
+Magpababa,Unload / Lower down,Verb
+Magpa-inom,Host drinks / Serve beverages,Verb
+Magpakaisip,Deliberate / Think deeply,Verb
+Magparos,Blow (referring to wind),Verb
+Mag-uran,Rain,Verb
+Mag-aldaw,Shine brightly (sunlight/daytime),Verb
+Mag-surog,Support / Stand up for someone,Verb
+Mag-surog,to alliance/support / engage in surog,Civic / Social (Verb)
+Mag-antabay,Escort / Accompany / Stand by,Verb
+Magpaistar,Accommodate / Provide shelter,Verb
+Mag-oma,Farm / Tend to the field,Verb
+Magpadagos,Continue / Proceed,Verb
+Magpadagos,Continue,Verb
+Magkaagimadmad,Become conscious / Regain awareness,Verb
+Magkaagimadmad,Regain consciousness,Verb
+Magpaisi,Formally announce / Notify,Verb
+Magpakiling,Incline / Lean to one side,Verb
+Magpa-orog,Strive for excellence / Improve,Verb
+Magpakundangan,Show deference / Pay respect,Verb
+Magka-oroyon,Reach a consensus / Agree,Verb
+Magpasiguro,Ensure / Make sure,Verb
+Magpahirani,Come closer / Draw near,Verb
+Magpaarayaw,Keep distance / Separate,Verb
+Mag-almusal,Eat breakfast,Verb
+Magpangudto,Eat lunch,Verb
+Magpamanggi,Eat dinner,Verb
+Magpakatukdo,Learn attentively / Request instruction,Verb
+Magpakusog-boot,Encourage or motivate oneself,Phrase
+Mag-aling-aling,Amuse oneself / Pass the time,Verb
+Mag-alyansa,Form an alliance,Verb
+Mag-asipon,Catch a cold,Verb
+Magbabaye,Engage in womanizing,Verb
+Magbalagbag,Lie crosswise / Block a path,Verb
+Magbaluktot,Bend / Curl up,Verb
+Magbaratilyo,Hold a discount sale,Verb
+Magbiktima,Victimise someone,Verb
+Magbiling-biling,Look around restlessly,Verb
+Magbokilya,Speak on behalf of someone,Verb
+Magbongga,Celebrate lavishly,Verb
+Mag-ebakwar,Evacuate,Verb
+Mag-engganyar,Encourage / Persuade,Verb
+Mag-estatwa,Stand still like a statue,Verb
+Maggiri-giti,Giggle repeatedly,Verb
+Magkamba,Leap or jump high,Verb
+Magpakalayo,Ignite or build a fire,Verb
+Magpakasira,Feast on fish dishes,Phrase
+Magpamaang-maang,Pretend not to know,Verb
+Magpamurit,Act crazy or foolish,Verb
+Mag-ultimatum,Issue a final warning,Verb
+Magkawat,Play,Verb
+Maglakat,Walk,Verb
+Magbagon,Wake up,Verb
+Magkarigo,Bathe,Verb
+Magpaaram,Say goodbye,Verb
+Mag-andam,Prepare,Verb
+Mag-andam,To get ready,Verb
+Magdara,Bring,Verb
+Maglaog,Enter,Verb
+Magbuhat,Stand up / Lift,Verb
+Maghinanyog,Listen,Verb
+Magtanaw,Look,Verb
+Magtanaw,To watch / View,Verb
+Maghanap,Search,Verb
+Maghanap,To look for / Search,Verb
+Maghanap,To search / Look for,Verbs
+Mag-awit,Sing,Verb
+Magkumpisal,Confess,Verb
+Magsamba,Worship,Verb
+Magdasal,Pray,Verb
+Magpalaog,Let in,Verb
+Magpaluwas,Let out,Verb
+Magpasensya,Be patient,Verb
+Magpasalamat,Give thanks,Verb
+adal,study,School / Academic
+nag-adal,did adal / performed adal,School / Academic (Past Verb)
+mag-basa,to read / engage in basa,School / Academic (Verb)
+mag-basa,to read,Verb
+nag-basa,did basa / performed basa,School / Academic (Past Verb)
+pag-basa,the act of basa,School / Academic (Noun)
+mag-surat,to write / engage in surat,School / Academic (Verb)
+mag-surat,to write,Verb
+nag-surat,did surat / performed surat,School / Academic (Past Verb)
+pag-surat,the act of surat,School / Academic (Noun)
+mag-simbag,to answer / engage in simbag,School / Academic (Verb)
+nag-simbag,did simbag / performed simbag,School / Academic (Past Verb)
+pag-simbag,the act of simbag,School / Academic (Noun)
+mag-hapot,to question / engage in hapot,School / Academic (Verb)
+nag-hapot,did hapot / performed hapot,School / Academic (Past Verb)
+pag-hapot,the act of hapot,School / Academic (Noun)
+klase,class,School / Academic
+mag-klase,to class / engage in klase,School / Academic (Verb)
+nag-klase,did klase / performed klase,School / Academic (Past Verb)
+pag-klase,the act of klase,School / Academic (Noun)
+maestro,teacher (M),School / Academic
+prinsipal,principal,School / Academic
+klasmet,classmate,School / Academic
+kwaderno,notebook,School / Academic
+mag-libro,to book / engage in libro,School / Academic (Verb)
+nag-libro,did libro / performed libro,School / Academic (Past Verb)
+pag-libro,the act of libro,School / Academic (Noun)
+mag-lapis,to pencil / engage in lapis,School / Academic (Verb)
+nag-lapis,did lapis / performed lapis,School / Academic (Past Verb)
+pag-lapis,the act of lapis,School / Academic (Noun)
+mag-papel,to paper / engage in papel,School / Academic (Verb)
+nag-papel,did papel / performed papel,School / Academic (Past Verb)
+pag-papel,the act of papel,School / Academic (Noun)
+pisara,board,School / Academic
+pisara,Chalkboard / Board,Noun
+mag-pisara,to board / engage in pisara,School / Academic (Verb)
+nag-pisara,did pisara / performed pisara,School / Academic (Past Verb)
+pag-pisara,the act of pisara,School / Academic (Noun)
+mag-lamesa,to table / engage in lamesa,School / Academic (Verb)
+nag-lamesa,did lamesa / performed lamesa,School / Academic (Past Verb)
+pag-lamesa,the act of lamesa,School / Academic (Noun)
+mag-pinto,to door / engage in pinto,School / Academic (Verb)
+nag-pinto,did pinto / performed pinto,School / Academic (Past Verb)
+pag-pinto,the act of pinto,School / Academic (Noun)
+kasarangpan,restroom,School / Academic
+library,library,School / Academic
+klinika,clinic,School / Academic
+kantina,canteen,School / Academic
+eksamen,exam,School / Academic
+ulayan,discussion,School / Academic
+mag-ulayan,to discussion / engage in ulayan,School / Academic (Verb)
+nag-ulayan,did ulayan / performed ulayan,School / Academic (Past Verb)
+pag-ulayan,the act of ulayan,School / Academic (Noun)
+mag-gibo,to work / engage in gibo,School / Academic (Verb)
+mag-gibo,to make / to do / to create,Action / Verb
+mag-gibo,to do / to create,Action / Verb
+nag-gibo,did gibo / performed gibo,School / Academic (Past Verb)
+pag-gibo,the act of gibo,School / Academic (Noun)
+mag-pasa,to submit / engage in pasa,School / Academic (Verb)
+mag-pasa,to submit / to hand over,Action / Verb
+nag-pasa,did pasa / performed pasa,School / Academic (Past Verb)
+pag-pasa,the act of pasa,School / Academic (Noun)
+sayod,pronunciation,School / Academic
+mag-sayod,to pronunciation / engage in sayod,School / Academic (Verb)
+nag-sayod,did sayod / performed sayod,School / Academic (Past Verb)
+pag-sayod,the act of sayod,School / Academic (Noun)
+tungkos,bag,School / Academic
+bura,erase,School / Academic
+mag-bura,to erase / engage in bura,School / Academic (Verb)
+nag-bura,did bura / performed bura,School / Academic (Past Verb)
+pag-bura,the act of bura,School / Academic (Noun)
+burador,eraser,School / Academic
+atendaran,attendance,School / Academic
+gana,win,School / Academic
+gana,Appetite / Enthusiasm,Noun
+mag-gana,to win / engage in gana,School / Academic (Verb)
+nag-gana,did gana / performed gana,School / Academic (Past Verb)
+pag-gana,the act of gana,School / Academic (Noun)
+tiyempo,recess,School / Academic
+tiyempo,Timing / Season,Time
+binalaybay,poem,School / Academic
+sumat,report,School / Academic
+mag-sumat,to report / engage in sumat,School / Academic (Verb)
+nag-sumat,did sumat / performed sumat,School / Academic (Past Verb)
+pag-sumat,the act of sumat,School / Academic (Noun)
+sipnayan,mathematics,School / Academic
+siyensya,science,School / Academic
+artipisyal,artificial,School / Academic
+kaisipan,thought,School / Academic
+kaisipan,Mindset / Thought,Nouns
+kaugalian,culture,School / Academic
+taramdan,schedule,School / Academic
+sertipiko,certificate,School / Academic
+diploma,diploma,School / Academic
+gradwasyon,graduation,School / Academic
+rupit,scrap paper,School / Academic
+mag-rupit,to scrap paper / engage in rupit,School / Academic (Verb)
+nag-rupit,did rupit / performed rupit,School / Academic (Past Verb)
+pag-rupit,the act of rupit,School / Academic (Noun)
+basuraan,trash can,School / Academic
+silid-aralan,classroom,School / Academic
+upisina,office,School / Academic
+gwardya,guard,School / Academic
+janitor,janitor,School / Academic
+kolehiyo,college,School / Academic
+pamantasan,university,School / Academic
+kurso,course,School / Academic
+mag-kurso,to course / engage in kurso,School / Academic (Verb)
+nag-kurso,did kurso / performed kurso,School / Academic (Past Verb)
+pag-kurso,the act of kurso,School / Academic (Noun)
+islogan,slogan,School / Academic
+gawad,award,School / Academic
+mag-gawad,to award / engage in gawad,School / Academic (Verb)
+nag-gawad,did gawad / performed gawad,School / Academic (Past Verb)
+pag-gawad,the act of gawad,School / Academic (Noun)
+plake,plaque,School / Academic
+mag-plake,to plaque / engage in plake,School / Academic (Verb)
+nag-plake,did plake / performed plake,School / Academic (Past Verb)
+pag-plake,the act of plake,School / Academic (Noun)
+medalya,medal,School / Academic
+plasa,public square,Places / Navigation
+plasa,Town plaza,Noun
+plasa,Town square / Plaza,Places
+bangko,bank,Places / Navigation
+terminal,terminal,Places / Navigation
+kanto,street corner,Places / Navigation
+krusada,intersection,Places / Navigation
+tulay,bridge,Places / Navigation
+baryo,village,Places / Navigation
+sona,zone,Places / Navigation
+munisipyo,town hall,Places / Navigation
+kapitolyo,provincial capitol,Places / Navigation
+estasyonan,station,Places / Navigation
+sakayan,loading zone,Places / Navigation
+sakayan,Vehicle / Boat,Noun
+babaan,unloading zone,Places / Navigation
+liko,turn,Places / Navigation
+harong-harong,shanty,Places / Navigation
+gidgidan,crowded alley,Places / Navigation
+sementeryo,cemetery,Places / Navigation
+merkado,market,Places / Navigation
+paratinda,vendor,Places / Navigation
+paratinda,Vendor / Merchant,Noun
+pasahero,passenger,Places / Navigation
+tsuper,driver,Places / Navigation
+tsuper,Jeepney driver,Commuting
+pakyaw,charter,Places / Navigation
+arkila,rent/hire,Places / Navigation
+destinasyon,destination,Places / Navigation
+biyahe,trip,Places / Navigation
+biyahe,trip / travel,Noun
+sakay,ride,Places / Navigation
+sakay,passenger / ride,Transport / Noun
+pasahe,fare,Places / Navigation
+parada,parking area,Places / Navigation
+hrayo,far,Places / Navigation
+diretso,straight ahead,Places / Navigation
+balik,return,Places / Navigation
+pamahawan,breakfast spot,Food / Transaction
+irignutan,dining hall,Food / Transaction
+sud-an,viand/dish,Food / Transaction
+kanen,cooked rice,Food / Transaction
+tutong,scorched rice,Food / Transaction
+sili,chili pepper,Food / Transaction
+gata,coconut milk,Food / Transaction
+kandingga,bicolano lung dish,Food / Transaction
+pinangat,taro leaf dish,Food / Transaction
+pinangat,Spicy taro leaf dish with coconut milk,Cuisine / Food
+tinutungan,smoked coconut milk dish,Food / Transaction
+tingting,toothpick,Food / Transaction
+sapi,paper money,Food / Transaction
+barya,coins,Food / Transaction
+utang,credit/debt,Food / Transaction
+diskwento,discount,Food / Transaction
+tubo,profit,Food / Transaction
+lugi,financial loss,Food / Transaction
+suki,regular client/vendor,Food / Transaction
+suki,Regular customer/vendor,Trade
+sandi,loose change,Food / Transaction
+kaon,eat,Food / Transaction
+inom,drink,Food / Transaction
+kapitan,barangay captain,Civic / Social
+kapitan,Captain / Village head,Noun
+kapitan,Captain,Noun
+kagawad,council member,Civic / Social
+kagawad,Councilor,Noun
+tanod,watchman,Civic / Social
+mag-tanod,to watchman / engage in tanod,Civic / Social (Verb)
+nag-tanod,did tanod / performed tanod,Civic / Social (Past Verb)
+pag-tanod,the act of tanod,Civic / Social (Noun)
+mag-pulis,to police officer / engage in pulis,Civic / Social (Verb)
+nag-pulis,did pulis / performed pulis,Civic / Social (Past Verb)
+pag-pulis,the act of pulis,Civic / Social (Noun)
+batas,law,Civic / Social
+mag-batas,to law / engage in batas,Civic / Social (Verb)
+nag-batas,did batas / performed batas,Civic / Social (Past Verb)
+pag-batas,the act of batas,Civic / Social (Noun)
+pataksil,tax/fees,Civic / Social
+mitíng,public meeting,Civic / Social
+mag-mitíng,to public meeting / engage in mitíng,Civic / Social (Verb)
+nag-mitíng,did mitíng / performed mitíng,Civic / Social (Past Verb)
+pag-mitíng,the act of mitíng,Civic / Social (Noun)
+tulong,help,Civic / Social
+tulong,Assistance / Help,Values
+mag-tulong,to help / engage in tulong,Civic / Social (Verb)
+nag-tulong,did tulong / performed tulong,Civic / Social (Past Verb)
+pag-tulong,the act of tulong,Civic / Social (Noun)
+ambag,donation,Civic / Social
+piyesta,festival,Civic / Social
+nag-surog,did surog / performed surog,Civic / Social (Past Verb)
+pag-surog,the act of surog,Civic / Social (Noun)
+katiwasayan,peace and order,Civic / Social
+kurit,draw/line,Civic / Social
+kawat,play/game,Civic / Social
+amiga,friend (F),Civic / Social
+anggot,anger / wrath,Emotion / Noun
+takot,fear / dread,Emotion / Noun
+takot,Fear,Emotion
+ngalas,wonder / surprise,Emotion / Noun
+ngalas,Surprise,Emotion
+mag-ngalas,to be amazed / surprised,Action / Verb
+ngisi,smile / laughter,Emotion / Noun
+mag-ngisi,to smile / laugh,Action / Verb
+mag-tangis,to cry / weep,Action / Verb
+mag-tangis,Cry/Weeping,Emotion
+suba,joke / jest,Conversation / Noun
+suba,Joke,Conversation
+suba,Joke / Fun,Noun
+mag-suba,to joke,Action / Verb
+girumdom,memory / remembrance,Mind / Noun
+mag-girumdom,to remember,Action / Verb
+lingaw,forgetfulness,Mind / Noun
+mag-lingaw,to forget,Action / Verb
+tubod,belief / faith,Mind / Noun
+mag-tubod,to believe,Action / Verb
+anda,preparation,Task / Noun
+uli,return home,Action / Verb
+iba,companion / accompany,Action / Verb
+subli,borrow,Transaction / Verb
+mag-subli,to borrow,Action / Verb
+mag-palaen,to alter / set apart,Action / Verb
+hadok,kiss,Affection / Noun
+mag-hadok,to kiss,Action / Verb
+omaw,praise / honor,Expression / Noun
+omaw,Praise/ Honor,Expression
+ani,harvest,Agriculture / Noun
+tanom,plant / crop,Agriculture / Noun
+tanom,Plant/ Crop,Agriculture
+mag-tanom,to plant,Action / Verb
+hugas,wash (hands/dishes),Action / Verb
+hugas,Wash,Action
+mag-hugas,to wash,Action / Verb
+laba,wash clothes,Action / Verb
+mag-laba,to do laundry,Action / Verb
+punas,wipe / clean surface,Action / Verb
+mag-punas,to wipe down,Action / Verb
+walis,sweep,Action / Verb
+mag-walis,to sweep,Action / Verb
+buka,open,Action / Verb
+mag-buka,to open,Action / Verb
+ranihan,close / bring near,Action / Verb
+daog,win / defeat,Outcome / Verb
+mag-daog,to emerge victorious,Action / Verb
+sarado,closed / shut off,State / Adjective
+sulsul,ignite / kindle,Action / Verb
+mag-sulsul,to ignite / burn,Action / Verb
+asa,hope,Concept / Noun
+tiyaga,perseverance / patience,Character / Noun
+mag-tiyaga,to persevere,Action / Verb
+ipon,savings / gather,Finance / Noun
+gastos,expense / spending,Finance / Noun
+pautang,lend money,Finance / Noun
+mag-pautang,to lend,Action / Verb
+bayad,payment,Finance / Noun
+mag-bayad,to pay,Action / Verb
+istar,reside / live in a place,Household / Verb
+sakit,illness / pain / difficulty,Health / Everyday
+umay,heal / recovery,Health / Noun
+pasar,pass (an exam or test),School / Verb
+mag-pasar,to pass,Action / Verb
+bagsak,fail / fall,School / Verb
+mag-bagsak,to fail,Action / Verb
+trabaho,job / employment,Work / Noun
+mag-trabaho,to work,Action / Verb
+pahingalo,rest / break,Wellness / Noun
+mag-pahingalo,to take a rest,Action / Verb
+lakbay,travel / journey,Navigation / Noun
+mag-lakbay,to journey,Action / Verb
+baba,disembark / go down,Navigation / Verb
+mag-baba,to get off / step down,Action / Verb
+mag-baba,To step down,Verb
+sakat,climb / ascend,Movement / Verb
+mag-sakat,to go up / climb,Action / Verb
+mag-sakat,To climb up,Verb
+hulog,fall / drop,Action / Verb
+mag-hulog,to drop / deposit,Action / Verb
+pulot,pick up (from ground),Action / Verb
+mag-pulot,to pick up,Action / Verb
+iwas,avoid / dodge,Action / Verb
+hulat,wait,Action / Verb
+sabat,welcoming / meeting someone arriving,Social / Noun
+sabat,welcome / meet,Social / Verb
+sabat,Meet / Greet someone arriving,Verb
+sabat,Meet / Receive an arriving guest,Verb
+mag-sabat,to go meet / welcome someone arriving,Action / Verb
+mag-sabat,to meet / to welcome someone arriving,Action / Verb
+sunod-sunod,successive / in sequence,Order / Adjective
+sunod-sunod,continuous / one after another,Order / Adjective
+mag-sunod-sunod,to follow sequentially / happen in a row,Action / Verb
+mag-sunod-sunod,to happen sequentially,Action / Verb
+lakaw,walk / journey,Movement / Noun
+lakaw,walk,Movement / Verb
+mag-hulat,to wait for,Action / Verb
+apura,hurry / rush,Action / Verb
+hinay,slow / gentle,Speed / Adjective
+mag-hinay,to slow down / go easy,Action / Verb
+singgit,shout / yell,Sound / Verb
+mag-singgit,to shout out,Action / Verb
+irog,whisper / move closer,Movement / Verb
+irog,Move over / Shift position,Verb
+utob,fulfill / obey,Duty / Verb
+suway,disobey / deviate,Action / Verb
+mag-suway,to disobey / part ways,Action / Verb
+sunod,follow,Action / Verb
+sunod,follower / next in line,Order / Noun
+enot,lead / go first,Navigation / Verb
+mag-lakaw,to go for a walk,Action / Verb
+mag-lakaw,to walk,Action / Verb
+dalagan,run,Movement / Verb
+mag-dalagan,to run,Action / Verb
+tukaw,sit / seat,Movement / Verb
+tukaw,seat / sitting posture,Movement / Noun
+tukaw,Seat,Commuting
+mag-tukaw,to sit down,Action / Verb
+tindog,stand,Movement / Verb
+tindog,standing posture,Movement / Noun
+mag-tindog,to stand up,Action / Verb
+sahig,floor / ground,Household / Noun
+sahig,floor,Household / Noun
+mag-sahig,to lay a floor / sweep floor,Household / Verb
+mag-sahig,to install flooring / lay floor mats,Household / Verb
+hali,leave / origin,Movement / Verb
+hali,origin / coming from,Movement / Noun
+mag-hali,to depart / to leave,Action / Verb
+mag-hali,to leave / depart / take away,Action / Verb
+abot,arrive,Movement / Verb
+abot,arrival / reach,Movement / Noun
+mag-abot,to arrive / reach,Action / Verb
+mag-abot,to arrive,Action / Verb
+mag-taram,to speak / talk,Action / Verb
+dangog,hear,Sense / Verb
+dangog,hearing / audible sound,Sense / Noun
+mag-dangog,to listen / hear,Action / Verb
+hiling,look / glance,Sense / Noun
+mag-hiling,to look / watch,Action / Verb
+siram,deliciousness / pleasant taste,Taste / Noun
+mag-siram,to become delicious / enjoy taste,Action / Verb
+luwas,outside / exterior,Direction / Noun
+mag-luwas,to go out / exit,Action / Verb
+mag-siring,to act like / say like this,Action / Verb
+mag-tabang,to help / assist,Action / Verb
+hapo,panting / shortness of breath,Health / Noun
+mag-hapo,to pant / catch one's breath,Action / Verb
+mag-tugang,to be siblings,Relationship / Verb
+pigsak,heavy slam / violent thud,Movement / Noun
+mag-pigsak,to slam down forcefully,Action / Verb
+lipot,coldness / chill,Weather / Noun
+lipot,Coldness,Weather
+mag-lipot,to feel cold / cool down,State / Verb
+init,heat / warmth,Weather / Noun
+init,Heat,Weather
+mag-init,to heat up / warm up,State / Verb
+lipat,relocation / transfer,Movement / Noun
+mag-lipat,to move / relocate,Action / Verb
+mag-sakay,to ride / board a vehicle,Action / Verb
+toyo,soy sauce,Everyday / Noun
+mag-toyo,to act quirky / be moody or playful,Action / Verb
+mag-duman,to go over there,Action / Verb
+tukdo,point / instruction / lesson,Education / Noun
+mag-tukdo,to teach / to point out,Action / Verb
+basag,break / crack,Condition / Noun
+saway,reprimand / warning,Social / Noun
+mag-saway,to reprimand / scold,Action / Verb
+punas-punas,light wiping / dusting,Household / Noun
+mag-punas-punas,to wipe down lightly,Household / Verb
+lakaw-lakaw,stroll / leisurely walk,Movement / Noun
+mag-lakaw-lakaw,to take a stroll / wander around,Action / Verb
+togot,permission / allowance,Social / Noun
+mag-togot,to grant permission / allow,Action / Verb
+hulog-hulog,instalment payment / dropping down,Finance / Noun
+mag-basag,to break / to shatter,Action / Verb
+sangli,replacement / substitute,Everyday / Noun
+mag-sangli,to change / to replace,Action / Verb
+dumanan,destination / place to go,Navigation / Noun
+dumanan,Go to a specific place,Verb
+mag-dumanan,to head towards a place,Action / Verb
+mag-tago,to hide / to conceal,Action / Verb
+mag-hanap,to search / to look for,Action / Verb
+mag-ako,to accept / to receive / to admit,Action / Verb
+mag-ako,To receive / Accept,Verb
+simbagan,exchange of answers / debate,Speech / Noun
+mag-simbagan,to answer back to each other,Action / Verb
+lakop,spread / widespread presence,State / Noun
+mag-lakop,to spread / to proliferate,Action / Verb
+sirungan,shelter / shaded area,Place / Noun
+mag-sirong,to take shelter / seek cover,Action / Verb
+turug,sleep,Wellness / Noun
+mag-turug,to sleep,Action / Verb
+mag-mata,to wake up / open eyes,Action / Verb
+luto,cooked food / cuisine,Meal / Noun
+mag-luto,to cook / prepare food,Action / Verb
+kakan,food / eating,Meal / Noun
+mag-kakan,to eat,Action / Verb
+inum,drink / beverage,Meal / Noun
+mag-inum,to drink,Action / Verb
+mag-bakal,to buy / purchase,Action / Verb
+tinda,goods for sale / merchandise,Business / Noun
+mag-tinda,to sell / offer goods,Action / Verb
+apod,call / name call,Communication / Noun
+mag-apod,to call out to someone,Action / Verb
+sibot,busy activity / rush,Task / Noun
+mag-sibot,to get busy / prepare in a hurry,Action / Verb
+sakit-sakit,hardship / struggle,Emotion / Noun
+mag-sakit-sakit,to endure hardship / struggle hard,Action / Verb
+mag-hulog-hulog,to pay in instalments,Finance / Verb
+taram-taram,chatting / casual discussion,Speech / Noun
+mag-taram-taram,to chat casually,Action / Verb
+sibot-sibot,frantic rushing / hasty preparation,Task / Noun
+mag-sibot-sibot,to rush around busily,Action / Verb
+toyo-toyo,playful teasing / moody behavior,Everyday / Noun
+mag-toyo-toyo,to tease playfulness / act up,Action / Verb
+bangon,rising from bed,Action / Noun
+mag-bangon,to get out of bed / rise,Action / Verb
+bangon-bangon,getting up repeatedly / recovery,Action / Noun
+mag-bangon-bangon,to try getting back up,Action / Verb
+Para,Stop,Daily
+dose,twelve,Number
+tabi,politeness particle / please,Grammar
+pero,but,Grammar
+kaya,so / that is why,Grammar
+kun,if / when,Grammar
+maski,even if / even though,Grammar
+bago,before,Grammar
+pagkatapos,after / afterwards,Grammar
+habang,while / as long as,Grammar
+an,nominative article (the),Grammar
+nin,genitive/objective marker (of / a),Grammar
+sa,locative marker (to / in / at / on),Grammar
+si,singular personal name marker,Grammar
+ni,possessive marker for personal names (of),Grammar
+kay,directional marker for personal names (to / for),Grammar
+tana,let's go (inclusive command),Grammar
+dawani,emphasis particle (so then / indeed),Grammar
+mismong,itself / personally,Grammar
+man,also / too / gentle particle,Grammar
+muno,confirmation tag (right?),Grammar
+palan,realization particle (so / oh),Grammar
+mabaing,shy / bashful,Adjective
+marikas,fast / quick,Adjective
+makusog,strong / loud,Adjective
+mahina,weak / soft,Adjective
+maati,dirty / filthy,Adjective
+maati,Dirty,Adj
+babaye,woman / female,Noun
+irawo,snake,Noun
+kusing,cat,Noun
+paitawan,window,Noun
+muntanya,mountain,Noun
+mag-suyod,to comb / search thoroughly,Action / Verb
+mag-suklay,to comb hair,Action / Verb
+mag-sipit,to clip / clip hair or clothes,Action / Verb
+mag-suksok,to tuck in / insert into,Action / Verb
+mabitoon,starry / full of stars,Adjective
+maldita,feisty / cheeky / mean,Adjective
+dagami,straw / dried rice stalks,Noun
+duros,wind / breeze,Noun
+kilo,kilogram,Noun
+pesos,pesos,Noun
+kinalas,Bicolano noodle dish,Noun
+boses,voice,Noun
+retrato,picture / photograph,Noun
+panahon,weather / time / season,Noun
+oras,time / hour,Noun
+pamasahe,fare,Noun
+bareta,news,Noun
+problema,problem,Noun
+assignment,assignment / homework,Noun
+subject,school subject,Noun
+research,research work,Noun
+data,information / data,Noun
+database,database,Noun
+file,document file,Noun
+mag-linig,to clean,Verb
+mag-karigos,to take a bath,Verb
+mag-lunad,to ride / get on a vehicle,Verb
+mag-poon,to start / begin,Verb
+mag-prito,to fry,Verb
+mag-gisa,to sauté,Verb
+mag-plantsa,to iron clothes,Verb
+mag-pangadyi,to pray,Verb
+mag-pasalamat,to give thanks,Verb
+mag-tarabangan,to help each other,Verb
+i-save,to save (a file),Verb
+i-send,to send (a message/file),Verb
+i-upload,to upload (a file),Verb
+i-finalize,to finalize,Verb
+i-check,to check / review,Verb
+i-submit,to submit,Verb
+liwaton,to redo / repeat,Verb
+dagdagan,to add more,Verb
+tawaran,to bargain / negotiate price,Verb
+mabakal,will buy,Verb
+mabalik,will return,Verb
+mahali,will leave,Verb
+pauwi,going home,Verb
+pasiring,heading towards / on the way,Verb
+gutom,hungry,Adjective
+busog,full (from eating),Adjective
+mauhaw,thirsty,Adjective
+barato,cheap,Adjective
+presko,fresh,Adjective
+masustansya,nutritious,Adjective
+amay,early,Adjective
+late,late,Adjective
+gwapo,handsome,Adjective
+padaba,beloved / loved one,Adjective
+Nagtatangis,Crying,Verb
+Burat,Drunk,Adjective
+Panira,Dish,Noun
+Libog,Unclear,Adjective
+Maglaagi,To Walk,Verb
+Baluy,House,Noun
+Agiyan,Road/path,Noun
+Luway-luway,Slowly,Adverb
+Simban,Church,Noun
+Maga'bot,To come,Verb
+Magbirik,To turn,Verb
+Talbo,Dust,Noun
+Kulít,Skin,Noun
+Taludtód,Back,Noun
+Burós,Belly,Noun
+Tiíl,Leg/Foot,Noun
+Rugó',Blood,Noun
+Kisam-kisam,To chew,Verb
+Marongóg,To hear,Verb
+Magbatáng,To lie down,Verb
+Mag-ula',To sit,Verb
+Tangpaôn,To hit,Verb
+Halipot,Short,Adjective
+Halipot,Short (length),Adj
+Makapal,Thick,Adjective
+Malaboy,Muddy (of water),Adjective
+Bubún,A well,Noun
+Mamará,Dry,Adjective
+Tagdó?,To drip,Verb
+pípa,Pipe,Noun
+Kakaptán,Handle,Noun
+Sibulyas,Onion,Noun
+Preparar,Prepare,Task
+Wlis,Sweep,Action
+Paaram,Goodbye,Greeting
+Traysikel,Tricycle,Commuting
+Kagonian,Recently / A moment ago,Time
+Ngaran,Name,Noun
+Umboy,Baby / Infant,Noun
+Tiyo,Uncle,Noun
+Tiya,Aunt,Noun
+Pinsan,Cousin,Noun
+Sugkod,Walking stick / Cane,Noun
+Lawas,Body,Noun
+Daghan,Chest,Noun
+Tiyan,Belly / Stomach,Noun
+Pungandol,Elbow,Noun
+Tuhod,Knee,Noun
+Dila,Tongue,Noun
+Dungo,Nose,Noun
+Talinga,Ear,Noun
+Buhok,Hair,Noun
+Dugo,Blood,Noun
+Hagdanan,Staircase,Noun
+Taripaan,Kitchen counter / Preparation area,Noun
+Sandok,Ladle,Noun
+Tubaan,Palm wine shop / Gathering spot,Noun
+Pampang,Riverbank / Shoreline,Noun
+Isla,Island,Noun
+Sirak,Sunlight / Sunbeam,Noun
+Dulum,Darkness / Shadow,Noun
+Hiyum,Smile,Noun
+Luha,Tear / Teardrop,Noun
+Magsariwa,To refresh / Renew,Verb
+Maggasto,To spend money,Verb
+Maglikay,To take precaution,Verb
+Magsaray,To store / Keep safe,Verb
+Magkuha,To take / Get,Verb
+Magtaong,To give,Verb
+Mag-liwat,To repeat / Redo,Verb
+Mag-ayos,To fix / Arrange,Verb
+Mag-ubos,To finish up / Consume,Verb
+Mag-ubos,To consume completely / Finish,Verb
+Mag-sugpon,To connect / Join,Verb
+Mag-itok,To spin / Turn,Verb
+Mag-atras,To go backward,Verb
+Mag-abante,To move forward,Verb
+Mag-alok,To offer / Invite,Verb
+Mag-aram,To find out / Learn,Verb
+Mag-ati,To stain / Soil,Verb
+Mag-atubang,To face / Confront,Verb
+Mag-ayuno,To fast,Verb
+Matoninong,Peaceful,Adj
+Maliksi,Agile / Quick,Adj
+Mabagal,Slow / Sluggish,Adj
+Masunod,Obedient,Adj
+Magalang,Respectful,Adj
+Mahusay,Skilled / Capable,Adj
+Malipoton,Very cold / Chilly,Adj
+Mainiton,Very hot,Adj
+Magpahiling,To show/ Display,Verb
+Panukat,Ruler,Noun
+Purtahan,Door,Noun
+Leksyon,Lesson,Noun
+Talipapa,Small local Market,Noun
+Magkua,To get,Verb
+Maghatod,To deliver,Verb
+Malinigon,Extremely clean,Adj
+Malinigon,Very clean / Spotless,Adjectives
+Mapagpasensyahon,Highly patient,Adj
+Sainda,Theirs / Them,Oblique Third Person Plural
+Kasubago,A while ago (earlier today),Time
+Matangbanggi,Midnight,Time
+Asarol,Digging hoe,Tools
+Kamada,Stacked firewood pile,Rural Life
+Lusong,Wooden mortar for rice hand-pounding,Tools
+Halu,Heavy wooden pestle,Tools
+Kagurang,Bench-mounted coconut grater,Tools
+Bariwas,Woven bamboo sifting tray,Tools
+Sagop,Stream barrier or irrigation dam,Infrastructure
+Kinunot,Shredded fish or stingray stewed in coconut milk,Culinary
+Banga,Clay jar for cooling water,Kitchenware
+Banga,Clay jar / Pitcher,Noun
+Gatasan,Earthenware pot reserved for reducing coconut milk,Kitchenware
+Kagbanwaan,Local citizenry / Community,Governance
+Namumuno,Elected or appointed leader,Governance
+Kasunduan,Formal agreement / Contract,Legal
+Kasunduan,Agreement / Contract,Noun
+Kasalan,Offense / Legal violation,Legal
+Saksi,Eyewitness / Legal witness,Legal
+Pagsuway,Infringement / Disobedience,Legal
+Hukuman,Court of law,Judicial
+Ngoyong,Nose,Noun
+Lahi,Skin,Noun
+Tyan,Stomach,Noun
+Siko,Elbow,Noun
+Talipia,Shoulder,Noun
+Tudlo,Finger,Noun
+Kuko,Nail,Noun
+Muging,Forehead,Noun
+Nuno,Grandparent,Noun
+Aki-anak,Godchild,Noun
+Kag-iharong,Neighbor,Noun
+Kag-ibo,Companion,Noun
+Gobernador,Governor,Noun
+Meyor,Mayor,Noun
+Soberano,Leader / Ruler,Noun
+Parke,Park,Noun
+Karsada,Street / Road,Noun
+Pantalan,Port / Pier,Noun
+Paliparan,Airport,Noun
+Selebrasyon,Celebration,Noun
+Kaniogan,Coconut plantation,Noun
+Basakan,Rice field,Noun
+Kabuangan,Madness,Noun
+Kaalaman,Knowledge,Noun
+Piknik,Picnic,Noun
+Pamahaw,Breakfast,Noun
+Sustansya,Nutrition,Noun
+Kaisip,Same-minded person,Noun
+Katrato,Partner / Sweetheart,Noun
+Kagpisan,Landlord / Owner,Noun
+Alay,Offering / Gift,Noun
+Kag-ingat,Guardian,Noun
+Magtahi,To sew,Verb
+Maghablon,To weave,Verb
+Magdrowing,To draw,Verb
+Magpinta,To paint,Verb
+Magbaligya,To offer for sale,Verb
+Magpalandong,To stay in the shade,Verb
+Magbaliktad,To flip over,Verb
+Magsukol,To measure,Verb
+Magtimbang,To weigh,Verb
+Magsari,To try / Attempt,Verb
+Mag-suko,To surrender,Verb
+Magpuyo,To live / Reside,Verb
+Maghakot,To haul / Transport,Verb
+Magdakop,To catch / Arrest,Verb
+Matalas,Keen / Sharp-minded,Adj
+Masinuruton,Obedient,Adj
+Mapagpakumbaba,Humble,Adj
+Makahirak,Pitiful / Compassionate,Adj
+Makangangalas,Amazing,Adj
+Mapanday,Crafty / Skilled,Adj
+Matatag,Firm / Stable,Adj
+Mapaisog,Encouraging,Adj
+Malaum,Hopeful,Adj
+Makilala,Distinguished,Adj
+Matino,Sensible / Sane,Adj
+Malinog,Earthquake-prone,Adj
+Mabaha,Flood-prone,Adj
+Malipot-lipot,Chilly,Adj
+Malipot-lipot,Slightly cool / Refreshing,Adjective
+Mainit-init,Lukewarm,Adj
+Mabantog,Renowned,Adj
+Malusog,Healthy,Adj
+Mamasang,Somewhat empty,Adj
+Bakit,Why,Pronoun
+Saino,Whose (plural),Pronoun
+Aru-aldaw,Every single day,Time
+Tag-uran,Rainy season,Time
+Tag-init,Dry / Summer season,Time
+Kainitan,Midday heat,Time
+Gabi-gabi,Every night,Time
+Pangit,Ugly,Adj
+Pangit,Ugly / Unpleasant,Adjective
+Niwang,Thin / Skinny,Adj
+Maninoy,Godfather,Noun
+Maninay,Godmother,Noun
+Bansag,Nickname,Noun
+Kamawotan,Desire / Will,Noun
+Pana,Arrow,Noun
+Sundang,Machete / Large knife,Noun
+Pukot,Fishing net,Noun
+Bangkas,Small boat,Noun
+Bangka,Canoe / Boat,Noun
+Panguron,Cloud,Noun
+Dagundong,Thunder,Noun
+Bag'o,New,Adj
+Mabalos,Thank you,Courtesy
+Patawad,Forgiveness / Sorry,Courtesy
+Bako,No / Not (denying identity/noun),Vocabulary
+Dai,No / Not (negating verb/adjective),Vocabulary
+Kamunduan,Sadness / Sorrow,Vocabulary
+Kusog,Strength / Power,Vocabulary
+Kagabsan,Everyone / Everything,Vocabulary
+Sampoo,Ten,Numbers
+Nguron,Nose,Body Parts
+Ngusog,Mouth / Snout,Body Parts
+Kag-aki,Parent,Family
+Apo,Grandchild,Family
+Manoy,Older brother,Family
+Manay,Older sister,Family
+Asawa,Spouse / Husband / Wife,Family
+Pintakasi,Patron saint / Community effort,Culture
+Pista,Fiesta / Festival,Culture
+Galang,Respect,Values
+Pangadye,Prayer,Religion
+Misa,Holy Mass,Religion
+Banal,Holy / Sacred,Religion
+Dios,God,Religion
+Kagurangnan,Lord / Almighty,Religion
+Kagurangnan,Lord / Master,Noun
+Simbaan,Church,Religion
+Pading-padi,Priest,Religion
+Bulanon,Moonlit night,Nature / Time
+Berdeng-berde,Very green,Colors
+Pirak,Silver,Colors / Materials
+Pirme,Always / Always continuous,Adverbs
+Kaginsan-ginsan,Seldom / Rarely,Adverbs
+Siguro,Maybe / Perhaps,Adverbs
+Talaan,List / Record,Nouns
+Taramon,Language / Word,Nouns
+Katinungan,Silence / Quietness,Nouns
+Kambyo,Loose change / Gear shift,Vocabulary
+Pamasaje,Fare money,Transportation
+Trak,Truck,Transportation
+Tren,Train,Transportation
+Aroplano,Airplane,Transportation
+Pintura,Paint,Materials
+Tisa,Chalk / Roof tile,Objects
+Alembre,Wire,Materials
+Lansang,Nail (hardware),Tools
+Martilyo,Hammer,Tools
+Lagari,Saw,Tools
+Sipit,Clips / Tongs,Household Items
+Panyo,Handkerchief,Clothing
+Kalketin,Socks,Clothing
+Kwentas,Necklace,Accessories
+Kag-antryo,Host / Master of ceremonies,Social
+Ampon,Adopted child,Family
+Bulawanon,Golden / Precious,Adj
+Dakulon,To enlarge / Increase,Verb
+Gipaw,Swarm / Crowd,Noun
+Guron-guron,Ripples / Waves,Nature
+Habi,Woven fabric / Weave,Crafts
+Halaba,Long,Adj
+Ibalag,To separate / Divide,Verb
+Kag-ama,Paternal figure / Patriarch,Family
+Kag-ina,Maternal figure / Matriarch,Family
+Kag-iraob,Close relative,Family
+Kagayan,Flowing water / Stream,Nature
+Kinamot,Eating with bare hands,Culture
+Lain,Different / Other,Adj
+Lao,Withered / Faded,Adj
+Mabana,Lowland / Valley,Geography
+Mabahang,Fragrant / Aromatic,Adj
+Mag-orolay,To discuss / Converse,Verb
+Mag-otob,To fulfill / Comply,Verb
+Mag-uma,To farm / Till land,Verb
+Mag-uron,To rain continuously,Verb
+Makarambong,Prosperous / Flourishing,Adj
+Makiiba,Friendly / Socialable,Adj
+Malomay,Gentle / Soft,Adj
+Mapotot,Fragile / Easily broken,Adj
+Masalap,Savory / Palatable,Taste
+Masumu,Boresome / Monotonous,Adj
+Matunog,Loud / Resonant,Sound
+Matunog,Resonant / Resounding,Adjective
+Pag-antabay,Guidance / Mentorship,Nouns
+Pag-olay,Conversation / Dialogue,Nouns
+Paglaum,Hope / Expectation,Nouns
+Pagsamba,Worship / Veneration,Religion
+Uran-uran,Light drizzle / Showers,Weather
+Alingasa,Humid / Sweltering heat,Weather
+Batak,Accustomed / Skilled through experience,Adj
+Kagaspangan,Roughness / Rudeness,Noun
+Matiwasay,Peaceful / Tranquil,Adj
+Pagsulbot,Wearing / Putting on clothes,Noun
+Pakamurawayen,Glorify / Exalt,Verb
+Natong,Taro leaves (for Laing),Food Ingredients
+Guti-guti,Firefly,Insects / Animals
+Kaginsangan,Noontime heat / Midday,Time / Weather
+Mag-amiga,Female friends / Friendship,Relationships
+Kinasoy,Traditional Bikol beef soup dish,Cuisine / Food
+Mag-urop-urop,To reflect / Ponder carefully,Verb
+Saranaw,Puddle / Pool of water,Everyday Nouns
+Maglakaw-lakaw,To stroll around,Verbs
+Mabana-bana,Shining / Luminous,Adjectives
+Malinao,Clear / Pure,Adjectives
+Mapanghamot,Sweet-smelling / Fragrant,Adjectives
+Magpapahingalo,To rest,Verbs
+Amihanan,North / Northern direction,Adjectives
+Kambal,Twins,Everyday Nouns
+Kag-amigo,Friend / Companion,Everyday Nouns
+Mag-iribahan,To stay or stick together,Verbs
+Ipadagos,Continue / Proceed,Verb
+Tugot,Allow / Permit,Verb
+Tandaan,Remember / Mark,Verb
+Kuyog,Comply / Obey,Verb
+Ranga,Comfort / Solace,Noun
+Pangadyi,Prayer,Noun
+Masantig,Clever / Skilled,Adjective
+Sarabang,Together / Simultaneous action,Adverb
+Kadtong,That (past/referential),Grammar / Particle
+Luhod,Kneel,Verb
+Talikod,Turn around / Back side,Noun
+Regalo,Gift / Reward,Noun
+Panganoron,Cloud / Sky,Noun
+Panganoron,Cloud,Noun
+Kilyab,Spark / Flash of light,Noun
+Pangatorogan,Dream,Noun
+Suga,Lamp / Light source,Noun
+Sumpa,Oath / Vow,Noun
+Hagad,Request / Ask for,Verb
+Sumbong,Report / Complain,Verb
+Pukaw,Awaken / Rouse,Verb
+Pukaw,Wake someone up,Verb
+Galing,Grind / Mill,Verb
+Maalerto,Attentive / Alert,Adjective
+Paliwat,Alternate / Turn-taking,Adverb
+Giya,Guide / Lead,Verb
+Siyasat,Inspect / Investigate,Verb
+Bawi,Recover / Reclaim,Verb
+Kilyaw,Whistle sound / Call,Noun
+Talii,Boundary / Edge mark,Noun
+Talinga-talinga,Mushroom (fungus),Noun
+Ratak,Damage / Flaw,Noun
+Matinggo,Swift / Agile,Adjective
+Matunog-tunog,Somewhat loud / Resonant,Adjective
+Sabay-sabay,Simultaneously / All together,Adverb
+Bisan,Even though / Although,Conjunction
+Iwal-iwal,Skirmish / Minor tussle,Verb
+Sikwat,Pry open / Lift up,Verb
+Giya-giya,Escort / Lead step-by-step,Verb
+Pukawan,Alarm clock / Awakening trigger,Noun
+Ratak-ratak,Cracks / Fine damage,Noun
+Bawi-bawi,Compensation / Make up for,Noun
+Kilyab-kilyab,Flickering / Glinting,Adjective
+Siyasat-siyasat,Casual inspection,Noun
+Sagip-buhay,Lifesaving / Rescue mission,Noun
+Talii-talii,Perimeter / Boundary line,Noun
+Timbang-timbang,Balanced / Well-proportioned,Adjective
+Sumpay-sumpay,Interconnected / Chained,Adjective
+Matinggo-tinggo,Moderately agile,Adjective
+Pangatorogan-lang,Merely a dream,Expression / Everyday
+Dumanan-na,Go there now,Imperative / Verb
+Pukaw-pukaw,Gentle wake-up call / Reminding,Verb
+Sabat-sabat,Intercepting / Greeting along the way,Verb
+Gibo-gibo,Crafting / Handiwork,Noun
+Ranga-ranga,Source of ongoing comfort,Noun
+Pangadyi-an,Place of prayer / Altar area,Noun
+Talinga-an,Handle (of a cup or vessel),Noun
+Suga-suga,Small decorative light,Noun
+Matugas-tugas,Somewhat stiff / Firm,Adjective
+Masantig-santig,Moderately clever,Adjective
+Kuyog-kuyog,Fully compliant / Submissive,Adjective
+Sarabang-sabang,Happening all together in unison,Adverb
+Bisan-pa,Even if / Regardless,Conjunction
+Hagad-hagad,Requesting repeatedly,Verb
+Sombong-sombong,Frequent reporting / Tattling,Noun
+Tago-tago,Hidden away / Kept secret,Adjective
+Kilyaban,Flashlight / Spotlight target,Noun
+Halatan,Meeting place / Welcome station,Noun
+Gibo-an,Workshop / Task area,Noun
+Ranga-an,Place of refuge or comfort,Noun
+Pangadyi-an-na,Time for prayer,Noun / Time
+Talinga-talinga-an,Fake listening / Feigning attention,Adjective
+Suga-an,Illuminate / Light up,Verb
+Matugas-puso,Hard-hearted / Unyielding,Adjective
+Masantig-on,Exceptionally clever,Adjective
+Magtiripon,Mass gathering / Simultaneous event,Noun
+Hagad-hagadan,Mutual requesting,Noun
+Tago-tagoan,Hide-and-seek / Hiding spot,Noun
+Kibang,Wobble / Unsteady movement,Noun
+Pukpok,Tap / Hammer gently,Verb
+Tarik,Pull / Drag toward oneself,Verb
+Laway-laway,Dribble / Light salivation,Noun
+Gatod,Stiff / Unyielding (material),Adjective
+Samsam,Seize / Snatch away,Verb
+Raya,Line / Boundary mark,Noun
+Aralig-alig,Hesitant / Wavering,Adjective
+Gilingan,Grinding mill / Processor,Noun
+Matanong,Inquisitive / Asking questions,Adjective
+Suga-an-na,Turned on (lighting),Adjective
+Pangadyi-an-on,Dedicated to prayer,Adjective
+Taguan,Storage room / Safe place,Noun
+Balyat,Cross over / Transfer to the other side,Verb
+Hilom,Secret / Confidential matter,Noun
+Sikwal,Push away / Reject,Verb
+Subad,Bite (as a fish taking bait),Verb / Noun
+Tadaw,Why (expressing wonder/disbelief),Particle / Everyday
+Giya-an,Guide / Escort,Verb
+Sikwit,Flick or scoop up lightly,Verb
+Gusgos,Rub / Scrub clean,Verb
+Pukaw-on,To be awakened / Needs waking,Verb
+Tago-an-na,Hide it now,Imperative / Everyday
+Masantig-a,Act cleverly / Work smartly,Verb
+Oma-han,Farmland / Agricultural field,Noun
+Dila-an,Lick / Touch with tongue,Verb
+Agi,Pass by / Pathway,Verb / Noun
+Lugad,Wound / Injury,Noun
+Tadok,Stake / Drive a post into ground,Noun / Verb
+Ato,Here / Present,Particle / Location
+Halikud,Turn back / Reverse side,Verb / Noun
+Sukli,Change (money),Trade
+Tawad,Discount / Bargain,Trade
+Presyo,Price,Trade
+Paradrayber,Driver,Commuting
