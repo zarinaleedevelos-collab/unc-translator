@@ -9,6 +9,9 @@ Nothing was translated, corrected or invented. The script `tools/build_dataset_c
 | Corpus phrases/sentences (Table 3.4) | 3,184 |
 | Exact duplicates skipped | 2,805 |
 
+## Where to fix everything: `data/DATA_CLEANING.xlsx`
+All the problems below (plus the 162 category labels) are laid out in one Excel workbook with drop-down lists, an "assigned to" column and a progress table. It is made by `tools/make_cleaning_workbook.py` (needs `py -m pip install openpyxl`; it will not overwrite a workbook you have started unless you add `--force`).
+
 ## NOT loaded — in `data/review_needed.csv` (532 rows) — please fix in the Google Doc, then re-run
 - **305** — same Bikol text with a *different* English translation (first one was kept). Decide which is right.
 - **147** — Bikol side has a slash/variant (e.g. "Nito / Namok", "Laway / Langaw" = Fly / Saliva). Split into separate rows by hand.
